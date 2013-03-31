@@ -1,0 +1,34 @@
+Update interval: 8.33333
+Game Initialised Succesfully
+data/img/menu.png has alpha
+New texture: data/img/menu.png
+Existing texture: data/img/menu.png (1)
+MenuState Init Successful
+MenuState Cleanup Successful
+data/img/Char14s.png has alpha
+New texture: data/img/Char14s.png
+Existing texture: data/img/Char14s.png (2)
+PlayState Init Successful
+PlayState Paused
+Warning: data/img/paused.png width isn't a power of 2!
+data/img/paused.png has alpha
+New texture: data/img/paused.png
+Existing texture: data/img/paused.png (3)
+PauseState Init Successful
+PauseState Cleanup Successful
+PlayState Resumed
+PlayState Paused
+Warning: data/img/paused.png width isn't a power of 2!
+data/img/paused.png has alpha
+Existing texture: data/img/paused.png (3)
+PauseState Init Successful
+PauseState Cleanup Successful
+PlayState Resumed
+PlayState Paused
+Warning: data/img/paused.png width isn't a power of 2!
+data/img/paused.png has alpha
+Existing texture: data/img/paused.png (3)
+PauseState Init Successful
+PauseState Cleanup Successful
+PlayState Resumed
+PlayState Clean Successful
