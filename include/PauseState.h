@@ -1,10 +1,21 @@
+/*
+ *  PauseState.h
+ *  Example "pause" state
+ *
+ *  Created by Marcelo Cohen on 04/11.
+ *  Copyright 2011 PUCRS. All rights reserved.
+ *
+ */
 
-#ifndef _PAUSE_STATE_H_
-#define _PAUSE_STATE_H_
+#ifndef PAUSE_STATE_H_
+#define PAUSE_STATE_H_
 
 #include <SDL.h>
 #include "CGameState.h"
 #include "CImage.h"
+
+
+class CFont;
 
 class PauseState : public CGameState
 {
@@ -20,7 +31,7 @@ class PauseState : public CGameState
     void update(CGame* game);
     void draw(CGame* game);
 
-    // Singleton
+    // Implement Singleton Pattern
     static PauseState* instance()
     {
         return &m_PauseState;
@@ -34,7 +45,9 @@ class PauseState : public CGameState
 
     static PauseState m_PauseState;
 
-    CImage* pauseImage;
+    CImage* pauseSprite;
+    CFont*  pauseFont;
+
 };
 
 #endif

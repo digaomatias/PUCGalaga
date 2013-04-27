@@ -2,8 +2,8 @@
  *  PlayState.cpp
  *  Normal "play" state
  *
- *  Created by Marcelo Cohen on 04/11.
- *  Copyright 2011 PUCRS. All rights reserved.
+ *  Created by Marcelo Cohen on 04/13
+ *  Copyright 2013 PUCRS. All rights reserved.
  *
  */
 
@@ -13,36 +13,63 @@
 #include <cmath>
 #include "CGame.h"
 #include "PlayState.h"
-#include "PauseState.h"
 
 PlayState PlayState::m_PlayState;
 
 using namespace std;
 
+#define SPEED 225
+
 void PlayState::init()
 {
-    player = new CImage();
-    player->loadImage("data/img/Char14s.png");
-    player->setPosition(10,100);
+    mapImage = new CImage();
+    mapImage->loadImage("data/img/galaga_map.png");
+    mapImage->setPosition(0,0);
+
+    player = new CSprite();
+    // player->loadSprite("data/img/smurf_sprite.png", 128, 128, 0, 0, 0, 0, 7, 3, 16);
+
+    // Carrega um sprite de Smurf
+    player->loadSpriteSparrowXML("data/img/spaceship1.xml");
+    // Posição inicial
+    player->setPosition(320,400);
+    // Taxa de animação: zero no início (personagem está parado)
+    player->setAnimRate(0);
+    player->setCurrentFrame(6);
+    player->setScale(2);
     dirx = 0; // direção do personagem: para a direita (5), esquerda (-5)
     diry = 0; // direção do personagem: para cima (5), baixo (-5)
+
+    //map = new TMXLoader();
+    // Carrega mapa com duas camadas
+    //map->loadMap("data/maps/desert2.tmx");
+
+    // Adiciona o jogador na lista de objetos que o mapa deve desenhar
+    // na camada especificada (default: primeira camada - 0)
+    //map->addImageObject(player);
+    // O mapa tem DUAS camadas: na segunda camada ha apenas um "pilar" azul
+
     keyState = SDL_GetKeyState(0); // get key state array
     cout << "PlayState Init Successful" << endl;
 }
 
 void PlayState::cleanup()
 {
+    // Libera memória
     delete player;
+    delete map;
 	cout << "PlayState Clean Successful" << endl;
 }
 
 void PlayState::pause()
 {
+    // Nada a fazer...
 	cout << "PlayState Paused" << endl;
 }
 
 void PlayState::resume()
 {
+    // Nada a fazer...
 	cout << "PlayState Resumed" << endl;
 }
 
@@ -61,9 +88,6 @@ void PlayState::handleEvents(CGame* game)
                     case SDLK_ESCAPE:
                         game->quit();
                         break;
-                    case SDLK_p:
-                        game->pushState(PauseState::instance());
-                        break;
                     default:
                         break;
                 }
@@ -71,27 +95,63 @@ void PlayState::handleEvents(CGame* game)
             case SDL_VIDEORESIZE:
                 game->resize(event.resize.w, event.resize.h);
         }
-        dirx = keyState[SDLK_RIGHT]*5 + keyState[SDLK_LEFT]*-5;
-        diry = keyState[SDLK_DOWN] *5 + keyState[SDLK_UP]  *-5;
+        // Atribui o deslocamento adequado às variáveis dirx e diry,
+        // de acordo com as setas pressionadas
+        dirx = keyState[SDLK_RIGHT]*SPEED + keyState[SDLK_LEFT]*-SPEED;
+        //diry = keyState[SDLK_DOWN] *SPEED + keyState[SDLK_UP]  *-SPEED;
     }
+
+    // Seta velocidade atual do sprite
+    player->setXspeed(dirx);
+    player->setYspeed(diry);
+/*
+    // Se uma das direções não for zero, ativa animação dos frames do personagem
+    if(dirx || diry)
+        player->setAnimRate(30);
+    else {
+        // Caso contrário, pára a animação dos frames
+        // e fixa o frame atual no 3 (Smurf parado)
+        player->setAnimRate(0);
+        player->setCurrentFrame(3);
+    }
+
+    // Se movimento for para a direita, desliga o "mirror" do personagem
+    if(dirx > 0)
+        player->setMirror(false);
+        // Se for para a esquerda, liga
+    else if(dirx < 0)
+        player->setMirror(true);*/
 }
 
 void PlayState::update(CGame* game)
 {
-    float x = player->getX();
-    float y = player->getY();
-    player->setPosition(x+dirx,y+diry);
+    //float x = player->getX();
+    //float y = player->getY();
+    // Seta o pan da câmera de jogo, de forma a centralizar o personagem
+    //game->setXpan(x-game->getWidth()/2);
+    //game->setYpan(y-game->getHeight()/2);
+    // Atualiza a câmera de jogo
+    game->updateCamera();
+    // Atualiza a animação de frames e movimento do personagem
+    player->update(game->getUpdateInterval());
 }
 
 void PlayState::draw(CGame* game)
 {
-    glClearColor(0.8,0.8,0.8,1); // light gray
+    glClearColor(0.0,0.0,0.0,1); // light gray
     glClear(GL_COLOR_BUFFER_BIT);
     glLoadIdentity();
 
-    player->setRotation(0);
-    player->setScale(1);
-    player->draw();
+    // Não desenha mais diretamente o personagem
+    //player->setRotation(0);
+    //player->setScale(1);
+    //player->draw();
 
+    // Agora o mapa e' responsavel por desenhar o jogador, imediatamente depois
+    // da camada 0 (primeira camada do mapa)
+
+    // Essa é a única forma de desenhar o personagem ENTRE as camadas
+    mapImage->draw();
+    player->draw();
     SDL_GL_SwapBuffers();
 }

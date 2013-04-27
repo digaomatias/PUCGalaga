@@ -1,34 +1,43 @@
-Update interval: 8.33333
+Update interval: 33.3333
 Game Initialised Succesfully
 data/img/menu.png has alpha
 New texture: data/img/menu.png
 Existing texture: data/img/menu.png (1)
 MenuState Init Successful
 MenuState Cleanup Successful
-data/img/Char14s.png has alpha
-New texture: data/img/Char14s.png
-Existing texture: data/img/Char14s.png (2)
+data/img/galaga_map.png has no alpha
+New texture: data/img/galaga_map.png
+Existing texture: data/img/galaga_map.png (2)
+CSprite::loadSpriteSparrowXML data/img/spaceship1.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/spaceship1.png
+data/img/spaceship1.png has alpha
+New texture: data/img/spaceship1.png
+Existing texture: data/img/spaceship1.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 23 23
+Rect: 0.0108696,0.0714286 - 0.141304,0.928571
+CSprite::VisitEnter SubTexture*
+Texture: 28 2 23 23
+Rect: 0.152174,0.0714286 - 0.282609,0.928571
+CSprite::VisitEnter SubTexture*
+Texture: 54 2 23 23
+Rect: 0.293478,0.0714286 - 0.423913,0.928571
+CSprite::VisitEnter SubTexture*
+Texture: 80 2 23 23
+Rect: 0.434783,0.0714286 - 0.565217,0.928571
+CSprite::VisitEnter SubTexture*
+Texture: 106 2 23 23
+Rect: 0.576087,0.0714286 - 0.706522,0.928571
+CSprite::VisitEnter SubTexture*
+Texture: 132 2 23 23
+Rect: 0.717391,0.0714286 - 0.847826,0.928571
+CSprite::VisitEnter SubTexture*
+Texture: 158 2 23 23
+Rect: 0.858696,0.0714286 - 0.98913,0.928571
+CSprite::VisitEnter SubTexture*
+Texture: 158 2 23 23
+Rect: 0.858696,0.0714286 - 0.98913,0.928571
+CSprite::loadSpriteSparrowXML total frames = 8
 PlayState Init Successful
-PlayState Paused
-Warning: data/img/paused.png width isn't a power of 2!
-data/img/paused.png has alpha
-New texture: data/img/paused.png
-Existing texture: data/img/paused.png (3)
-PauseState Init Successful
-PauseState Cleanup Successful
-PlayState Resumed
-PlayState Paused
-Warning: data/img/paused.png width isn't a power of 2!
-data/img/paused.png has alpha
-Existing texture: data/img/paused.png (3)
-PauseState Init Successful
-PauseState Cleanup Successful
-PlayState Resumed
-PlayState Paused
-Warning: data/img/paused.png width isn't a power of 2!
-data/img/paused.png has alpha
-Existing texture: data/img/paused.png (3)
-PauseState Init Successful
-PauseState Cleanup Successful
-PlayState Resumed
 PlayState Clean Successful

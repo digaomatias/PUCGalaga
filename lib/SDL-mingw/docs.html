@@ -580,4 +580,50 @@ SDL 1.2.10 is a major release, featuring a revamp of the build system and many A
 <P>
 	Dmitry Yakimov contributed a GAPI video driver for Windows CE.
 <P>
-	The defa
+	The default fullscreen refresh rate has been increased to match the desktop refresh rate, when using equivalent resolutions.  A full API for querying and selecting refresh rates is planned for SDL 1.3.
+<P>
+	Dialog boxes are now shown when SDL is in windowed OpenGL mode.
+<P>
+	The SDL window is recreated when necessary to maintain OpenGL context attributes, when switching between windowed and fullscreen modes.
+<P>
+	An SDL_VIDEORESIZE event is properly sent when the SDL window is maximized and restored.
+<P>
+	Window positions are retained when switching between fullscreen and windowed modes.
+<P>
+	ToUnicode() is used, when available, for improved handling of international keyboard input.
+<P>
+	The PrtScrn is now treated normally with both key down and key up events.
+<P>
+	Pressing ALT-F4 now delivers an SDL_QUIT event to SDL applications.
+<P>
+	Joystick names are now correct for joysticks which have been unplugged and then plugged back in since booting.
+<P>
+	An MCI error when playing the last track on a CD-ROM has been fixed.
+<P>
+	OpenWatcom projects for building SDL have been provided by Marc Peter.
+</BLOCKQUOTE>
+
+<H3> Mac OS X Notes </H3>
+
+<BLOCKQUOTE>
+<P>
+	SDL now supports building Universal binaries, both through Xcode projects and when using configure/make.  See README.MacOSX in the SDL source archive for details.
+<P>
+	The X11 video driver with GLX support can be built on Mac OS X, if the X11 development SDK is installed.
+<P>
+	Transitions between fullscreen resolutions and windowed mode now use a much faster asynchronous fade to hide desktop flicker.
+<P>
+	Icons set with SDL_WM_SetIcon() now have the proper colors on Intel Macs.
+</BLOCKQUOTE>
+
+<H3> OS/2 Notes </H3>
+
+<BLOCKQUOTE>
+<P>
+	Projects for building SDL on OS/2 with OpenWatcom have been contributed by Doodle.  See the file README.OS2 in the SDL source distribution for details.
+</BLOCKQUOTE>
+
+<IMG SRC="docs/images/rainbow.gif" ALT="[separator]" WIDTH="100%">
+
+</BODY>
+</HTML>

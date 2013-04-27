@@ -18,7 +18,8 @@ class CImage
 		float yOffset;
         float xTexOffset;   // offset to apply to tex coords (for parallax, etc)
         float yTexOffset;
-
+        bool visible;
+		
 	public:
 		CImage();
 		virtual ~CImage();
@@ -43,6 +44,8 @@ class CImage
         void setYTexOffset(float yo);
         float getXTexOffset() { return xTexOffset; }
         float getYTexOffset() { return yTexOffset; }
+        void setVisible(bool status) { visible = status; }
+        bool getVisible() { return visible; }
 };
 
 #endif  // CIMAGE_H

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="spaceships.png">
+    <SubTexture name="frame01" x="0"   y="0" height="25" width="25"/>
+    <SubTexture name="frame02" x="25" y="0" height="25" width="25"/>
+    <SubTexture name="frame03" x="52"   y="0" height="25" width="25"/>
+    <SubTexture name="frame04" x="78" y="0" height="25" width="25"/>
+    <SubTexture name="frame05" x="94"   y="0" height="25" width="25"/>
+    <SubTexture name="frame06" x="120" y="0" height="25" width="25"/>
+	<SubTexture name="frame07" x="146" y="0" height="25" width="25"/>
+</TextureAtlas>

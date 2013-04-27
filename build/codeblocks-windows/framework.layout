@@ -1,22 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="..\..\include\CImage.h" open="1" top="0" tabpos="6">
-		<Cursor position="0" topLine="0" />
+	<File name="..\..\include\CSprite.h" open="0" top="0" tabpos="0">
+		<Cursor position="234" topLine="4" />
 	</File>
-	<File name="..\..\include\Graphics.h" open="1" top="1" tabpos="4">
-		<Cursor position="60" topLine="0" />
+	<File name="..\..\include\Graphics.h" open="0" top="0" tabpos="0">
+		<Cursor position="127" topLine="0" />
+	</File>
+	<File name="..\..\include\PlayState.h" open="1" top="0" tabpos="3">
+		<Cursor position="735" topLine="27" />
 	</File>
 	<File name="..\..\source\CGame.cpp" open="1" top="0" tabpos="5">
-		<Cursor position="0" topLine="0" />
+		<Cursor position="2" topLine="13" />
 	</File>
-	<File name="..\..\source\CImage.cpp" open="1" top="0" tabpos="3">
-		<Cursor position="1036" topLine="0" />
+	<File name="..\..\source\CImage.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="214" topLine="0" />
 	</File>
-	<File name="..\..\source\MenuState.cpp" open="1" top="0" tabpos="2">
-		<Cursor position="340" topLine="0" />
+	<File name="..\..\source\MenuState.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="258" topLine="0" />
 	</File>
-	<File name="..\..\source\main.cpp" open="1" top="0" tabpos="1">
-		<Cursor position="296" topLine="14" />
+	<File name="..\..\source\PauseState.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="143" topLine="0" />
+	</File>
+	<File name="..\..\source\PlayState.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="747" topLine="21" />
+	</File>
+	<File name="..\..\source\main.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="344" topLine="10" />
+	</File>
+	<File name="..\..\source\maploader\TMXLoader.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="218" topLine="6" />
 	</File>
 </CodeBlocks_layout_file>

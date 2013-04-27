@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="galagasheet.png">
+    <SubTexture name="frame01" x="15"   y="52" height="20" width="20"/>
+    <SubTexture name="frame02" x="37" y="52" height="20" width="20"/>
+    <SubTexture name="frame03" x="59"   y="52" height="20" width="20"/>
+    <SubTexture name="frame04" x="81" y="52" height="20" width="20"/>
+    <SubTexture name="frame05" x="103"   y="52" height="20" width="20"/>
+    <SubTexture name="frame06" x="130" y="52" height="20" width="20"/>
+	<SubTexture name="frame07" x="158" y="52" height="20" width="20"/>
+</TextureAtlas>

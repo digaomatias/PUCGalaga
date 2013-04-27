@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="puma.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:c9b9a9a4948a7ac9abec8b78dad651d6$ -->
+    <SubTexture name="frame01" x="0" y="0" width="86" height="52"/>
+    <SubTexture name="frame02" x="86" y="0" width="88" height="54"/>
+    <SubTexture name="frame03" x="0" y="54" width="92" height="50"/>
+    <SubTexture name="frame04" x="92" y="54" width="88" height="52"/>
+    <SubTexture name="frame05" x="0" y="106" width="90" height="52"/>
+    <SubTexture name="frame06" x="90" y="106" width="90" height="52"/>
+</TextureAtlas>

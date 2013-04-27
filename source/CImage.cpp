@@ -12,7 +12,8 @@ CImage::CImage()
 	scale = 1;
 	rotation = 0;
 	x = 0;
-	y = 0;
+    y = 0;
+    visible = true;
 }
 
 bool CImage::loadImage(char nomeArq[])
@@ -144,6 +145,8 @@ void CImage::setScale(float s)
 // Funcao que desenha a imagem toda e sera sobrescrita nas subclasses.
 void CImage::draw()
 {
+    if(!visible) return;
+
     float u1 = xTexOffset;
     float v1 = yTexOffset;
     float u2 = xTexOffset+1;

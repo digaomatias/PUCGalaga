@@ -1,6 +1,6 @@
 /*
  *  PauseState.cpp
- *  Example "menu" state
+ *  Example "pause" state
  *
  *  Created by Marcelo Cohen on 04/11.
  *  Copyright 2011 PUCRS. All rights reserved.
@@ -11,8 +11,8 @@
 #include <SDL.h>
 #include "Graphics.h"
 #include "CGame.h"
+#include "CFont.h"
 #include "PauseState.h"
-#include "PlayState.h"
 
 PauseState PauseState::m_PauseState;
 
@@ -20,46 +20,45 @@ using namespace std;
 
 void PauseState::init()
 {
-    pauseImage = new CImage();
-    pauseImage->loadImage("data/img/paused.png"); // load pause state bitmap
-	cout << "PauseState Init Successful" << endl;
+    pauseSprite = new CImage();
+    pauseSprite->loadImage("data/img/paused.png");
+    pauseSprite->setPosition(150,150);
+    pauseFont = new CFont();
+    pauseFont->loadFont("data/fonts/lucida12.png", 112, 208);
+    cout << "PauseState Init Successful" << endl;
 }
 
 void PauseState::cleanup()
 {
-    delete pauseImage;
-	cout << "PauseState Cleanup Successful" << endl;
+    delete pauseSprite;
+	cout << "PauseState Clean Successful" << endl;
 }
 
-void PauseState::pause()
-{
-	cout << "PauseState Paused" << endl;
-}
+void PauseState::resume() {}
 
-void PauseState::resume()
-{
-	cout << "PauseState Resumed" << endl;
-}
+void PauseState::pause() {}
 
 void PauseState::handleEvents(CGame* game)
 {
 	SDL_Event event;
 
-    if (SDL_PollEvent(&event)) {
+	if (SDL_PollEvent(&event)) {
 		switch (event.type) {
 			case SDL_QUIT:
 				game->quit();
 				break;
 
-			case SDL_KEYDOWN:
-                switch(event.key.keysym.sym) {
-
+            case SDL_KEYDOWN:
+				switch(event.key.keysym.sym){
                     case SDLK_p:
                         game->popState();
                         break;
+                    case SDLK_ESCAPE:
+                        game->quit();
+                        break;
                     default:
                         break;
-                }
+				}
 		}
 	}
 }
@@ -70,10 +69,13 @@ void PauseState::update(CGame* game)
 
 void PauseState::draw(CGame* game)
 {
-    glClearColor(1,1,1,0.2); // gray
+    glClearColor(0,0,1,1); // blue
     glClear(GL_COLOR_BUFFER_BIT);
-    pauseImage->setPosition(50,50);
-    pauseImage->draw();
+    glLoadIdentity();
+    pauseSprite->setScale(1);
+    pauseSprite->draw();
+    glLoadIdentity();
+    pauseFont->draw(250,300,"Press P to resume game");
     SDL_GL_SwapBuffers();
 }
 

@@ -3128,15 +3128,17 @@
 	"PauseState.h"
 	"PlayMapAI.h"
 
-1313956037 source:c:\users\10049190.portoalegre\downloads\framework-aula2\source\menustate.cpp
+1314568038 source:c:\users\10049190\documents\ed\framework-aula3\source\cimage.cpp
+	"CImage.h"
+	"TextureManager.h"
+
+1314568038 c:\users\10049190\documents\ed\framework-aula3\include\cimage.h
 	<iostream>
 	<SDL.h>
 	"Graphics.h"
-	"CGame.h"
-	"MenuState.h"
-	"PlayState.h"
+	<SDL_image.h>
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl.h
 	"SDL_main.h"
 	"SDL_stdinc.h"
 	"SDL_audio.h"
@@ -3155,14 +3157,14 @@
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_main.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_main.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_stdinc.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_stdinc.h
 	"SDL_config.h"
 	<sys/types.h>
 	<stdio.h>
@@ -3188,17 +3190,17 @@
 	<stdlib.h>
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_config.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_config.h
 	"SDL_platform.h"
 	<stdarg.h>
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_platform.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_platform.h
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\begin_code.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\begin_code.h
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\close_code.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\close_code.h
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_audio.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_audio.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_endian.h"
@@ -3208,23 +3210,23 @@
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_error.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_error.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_endian.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_endian.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_mutex.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_mutex.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_thread.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_thread.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_mutex.h"
@@ -3232,24 +3234,24 @@
 	<process.h>
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_rwops.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_rwops.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_cdrom.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_cdrom.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_cpuinfo.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_cpuinfo.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_events.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_events.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_active.h"
@@ -3260,67 +3262,67 @@
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_active.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_active.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_keyboard.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_keyboard.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_keysym.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_keysym.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_keysym.h
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_mouse.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_mouse.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_video.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_video.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_rwops.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_joystick.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_joystick.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_quit.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_loadso.h
-	"SDL_stdinc.h"
-	"SDL_error.h"
-	"begin_code.h"
-	"close_code.h"
-
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_timer.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_loadso.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_version.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_version.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1314040161 c:\users\10049190.portoalegre\downloads\framework-aula2\include\graphics.h
+1314648061 c:\users\10049190\documents\ed\framework-aula3\include\graphics.h
 	<SDL_opengl.h>
 	<GL/glext.h>
 
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_opengl.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_opengl.h
 	"SDL_config.h"
 	<windows.h>
 	<OpenGL/gl.h>
@@ -3332,37 +3334,88 @@
 	<windows.h>
 	<stddef.h>
 
-1313955914 c:\users\10049190.portoalegre\downloads\framework-aula2\include\cgame.h
-	<SDL.h>
-	"Graphics.h"
-	<stack>
-
-1313964868 c:\users\10049190.portoalegre\downloads\framework-aula2\include\menustate.h
-	<SDL.h>
-	"CGameState.h"
-	"CImage.h"
-
-1313955929 c:\users\10049190.portoalegre\downloads\framework-aula2\include\cgamestate.h
-	"CGame.h"
-
-1313956044 c:\users\10049190.portoalegre\downloads\framework-aula2\include\cimage.h
-	<iostream>
-	<SDL.h>
-	"Graphics.h"
-	<SDL_image.h>
-
-1313954924 c:\users\10049190.portoalegre\downloads\framework-aula2\lib\sdl-mingw\include\sdl_image.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\lib\sdl-mingw\include\sdl_image.h
 	"SDL.h"
 	"SDL_version.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313967092 c:\users\10049190.portoalegre\downloads\framework-aula2\include\playstate.h
+1314568038 c:\users\10049190\documents\ed\framework-aula3\include\texturemanager.h
+	"Graphics.h"
+	<map>
+	<string>
+
+1314569210 source:c:\users\10049190\documents\ed\framework-aula3\source\cmultiimage.cpp
+	<iostream>
+	"CMultiImage.h"
+
+1314568442 c:\users\10049190\documents\ed\framework-aula3\include\cmultiimage.h
+	<vector>
+	"CImage.h"
+	"TexRect.h"
+
+1314569010 c:\users\10049190\documents\ed\framework-aula3\include\texrect.h
+
+1314568038 source:c:\users\10049190\documents\ed\framework-aula3\source\cgame.cpp
+	"CGame.h"
+	"CGameState.h"
+	<iostream>
+	<assert.h>
+	<cmath>
+
+1314568038 c:\users\10049190\documents\ed\framework-aula3\include\cgame.h
+	<SDL.h>
+	"Graphics.h"
+	<stack>
+
+1314568038 c:\users\10049190\documents\ed\framework-aula3\include\cgamestate.h
+	"CGame.h"
+
+1314568428 source:c:\users\10049190\documents\ed\framework-aula3\source\csprite.cpp
+	"CSprite.h"
+	<iostream>
+	<string>
+
+1314568450 c:\users\10049190\documents\ed\framework-aula3\include\csprite.h
+	<vector>
+	"CMultiImage.h"
+	"TexRect.h"
+	"tinyxml.h"
+
+1314568532 c:\users\10049190\documents\ed\framework-aula3\include\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1314568532 c:\users\10049190\documents\ed\framework-aula3\include\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1314648448 source:c:\users\10049190\documents\ed\framework-aula3\source\menustate.cpp
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	"CGame.h"
+	"MenuState.h"
+	"PlayState.h"
+
+1314568038 c:\users\10049190\documents\ed\framework-aula3\include\menustate.h
 	<SDL.h>
 	"CGameState.h"
 	"CImage.h"
 
-1313967108 source:c:\users\10049190.portoalegre\downloads\framework-aula2\source\playstate.cpp
+1314570862 c:\users\10049190\documents\ed\framework-aula3\include\playspritestate.h
+	<SDL.h>
+	"CGameState.h"
+	"CSprite.h"
+
+1314568038 source:c:\users\10049190\documents\ed\framework-aula3\source\playstate.cpp
 	<iostream>
 	<SDL.h>
 	"Graphics.h"
@@ -3370,20 +3423,16 @@
 	"CGame.h"
 	"PlayState.h"
 
-1313954924 source:c:\users\10049190.portoalegre\downloads\framework-aula2\source\texturemanager.cpp
+1314568038 c:\users\10049190\documents\ed\framework-aula3\include\playstate.h
+	<SDL.h>
+	"CGameState.h"
+	"CImage.h"
+
+1314568038 source:c:\users\10049190\documents\ed\framework-aula3\source\texturemanager.cpp
 	"TextureManager.h"
 	<iostream>
 
-1313954923 c:\users\10049190.portoalegre\downloads\framework-aula2\include\texturemanager.h
-	"Graphics.h"
-	<map>
-	<string>
-
-1313954924 source:c:\users\10049190.portoalegre\downloads\framework-aula2\source\cimage.cpp
-	"CImage.h"
-	"TextureManager.h"
-
-1314040140 source:c:\users\10049190.portoalegre\downloads\framework-aula2\source\main.cpp
+1314568038 source:c:\users\10049190\documents\ed\framework-aula3\source\main.cpp
 	<iostream>
 	<cstdlib>
 	<string>
@@ -3392,24 +3441,107 @@
 	"CGame.h"
 	"MenuState.h"
 
-1313967240 source:c:\users\10049190.portoalegre\downloads\framework-aula2\source\cgame.cpp
-	"CGame.h"
-	"CGameState.h"
-	<iostream>
-	<assert.h>
+1314569130 source:c:\users\10049190\documents\ed\framework-aula3\source\maploader\tmxloader.cpp
+	"TMXLoader.h"
+	<iomanip>
 	<cmath>
 
-1313954924 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\source\cimage.cpp
-	"CImage.h"
-	"TextureManager.h"
+1314568524 c:\users\10049190\documents\ed\framework-aula3\include\maploader\tmxloader.h
+	"../CMultiImage.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"base64.h"
+	"tinyxml.h"
 
-1364683651 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\include\cimage.h
+1314568524 c:\users\10049190\documents\ed\framework-aula3\include\maploader\base64.h
+	<string>
+	<vector>
+
+1314568506 source:c:\users\10049190\documents\ed\framework-aula3\source\maploader\base64.cpp
+	"base64.h"
+	<iostream>
+	<string>
+
+1314568510 source:c:\users\10049190\documents\ed\framework-aula3\source\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1314568510 source:c:\users\10049190\documents\ed\framework-aula3\source\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1314568510 source:c:\users\10049190\documents\ed\framework-aula3\source\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1314568510 source:c:\users\10049190\documents\ed\framework-aula3\source\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1314575078 source:c:\users\10049190\documents\ed\framework-aula3\source\playmaptop.cpp
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	<cmath>
+	"CGame.h"
+	"PlayMapTop.h"
+	"PauseState.h"
+
+1314574130 c:\users\10049190\documents\ed\framework-aula3\include\playmaptop.h
+	<SDL.h>
+	"CGameState.h"
+	"CSprite.h"
+	"TMXLoader.h"
+
+1314574316 c:\users\10049190\documents\ed\framework-aula3\include\pausestate.h
+	<SDL.h>
+	"CGameState.h"
+	"CImage.h"
+
+1314576696 source:c:\users\10049190\documents\ed\framework-aula3\source\playspritestate.cpp
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	<cmath>
+	"CGame.h"
+	"PlaySpriteState.h"
+
+1314574328 source:c:\users\10049190\documents\ed\framework-aula3\source\pausestate.cpp
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	"CGame.h"
+	"CFont.h"
+	"PauseState.h"
+
+1314568766 c:\users\10049190\documents\ed\framework-aula3\include\cfont.h
+	"CMultiImage.h"
+
+1314568778 source:c:\users\10049190\documents\ed\framework-aula3\source\cfont.cpp
+	"CFont.h"
+
+1314568778 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\cfont.cpp
+	"CFont.h"
+
+1314568766 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\cfont.h
+	"CMultiImage.h"
+
+1314568442 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\cmultiimage.h
+	<vector>
+	"CImage.h"
+	"TexRect.h"
+
+1346689640 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\cimage.h
 	<iostream>
 	<SDL.h>
 	"Graphics.h"
 	<SDL_image.h>
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl.h
 	"SDL_main.h"
 	"SDL_stdinc.h"
 	"SDL_audio.h"
@@ -3428,14 +3560,14 @@
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_main.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_main.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_stdinc.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_stdinc.h
 	"SDL_config.h"
 	<sys/types.h>
 	<stdio.h>
@@ -3461,17 +3593,17 @@
 	<stdlib.h>
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_config.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_config.h
 	"SDL_platform.h"
 	<stdarg.h>
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_platform.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_platform.h
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\begin_code.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\begin_code.h
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\close_code.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\close_code.h
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_audio.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_audio.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_endian.h"
@@ -3481,23 +3613,23 @@
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_error.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_error.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_endian.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_endian.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_mutex.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_mutex.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_thread.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_thread.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_mutex.h"
@@ -3505,24 +3637,24 @@
 	<process.h>
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_rwops.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_rwops.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_cdrom.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_cdrom.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_cpuinfo.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_cpuinfo.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_events.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_events.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_active.h"
@@ -3533,67 +3665,67 @@
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_active.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_active.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_keyboard.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_keyboard.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_keysym.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_keysym.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_keysym.h
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_mouse.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_mouse.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_video.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_video.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_rwops.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_joystick.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_joystick.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_quit.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_loadso.h
-	"SDL_stdinc.h"
-	"SDL_error.h"
-	"begin_code.h"
-	"close_code.h"
-
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_timer.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_loadso.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_version.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_version.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1314040162 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\include\graphics.h
+1314648062 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\graphics.h
 	<SDL_opengl.h>
 	<GL/glext.h>
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_opengl.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_opengl.h
 	"SDL_config.h"
 	<windows.h>
 	<OpenGL/gl.h>
@@ -3605,18 +3737,119 @@
 	<windows.h>
 	<stddef.h>
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\lib\sdl-mingw\include\sdl_image.h
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\lib\sdl-mingw\include\sdl_image.h
 	"SDL.h"
 	"SDL_version.h"
 	"begin_code.h"
 	"close_code.h"
 
-1313954924 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\include\texturemanager.h
+1314569010 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\texrect.h
+
+1314568038 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\cgame.cpp
+	"CGame.h"
+	"CGameState.h"
+	<iostream>
+	<assert.h>
+	<cmath>
+
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\cgame.h
+	<SDL.h>
+	"Graphics.h"
+	<stack>
+
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\cgamestate.h
+	"CGame.h"
+
+1346689708 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\cimage.cpp
+	"CImage.h"
+	"TextureManager.h"
+
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\texturemanager.h
 	"Graphics.h"
 	<map>
 	<string>
 
-1314048002 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\source\main.cpp
+1346689730 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\cmultiimage.cpp
+	<iostream>
+	"CMultiImage.h"
+
+1346691386 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\csprite.cpp
+	"CSprite.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1346689668 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\csprite.h
+	<vector>
+	"CMultiImage.h"
+	"TexRect.h"
+	"tinyxml.h"
+
+1314568532 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1314568532 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1314648450 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\menustate.cpp
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	"CGame.h"
+	"MenuState.h"
+	"PlayState.h"
+
+1314568038 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\menustate.h
+	<SDL.h>
+	"CGameState.h"
+	"CImage.h"
+
+1366072355 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\playstate.h
+	<SDL.h>
+	"CGameState.h"
+	"CSprite.h"
+	"maploader/TMXLoader.h"
+
+1346792090 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\maploader\tmxloader.h
+	"../CMultiImage.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"base64.h"
+	"tinyxml.h"
+
+1314568524 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\maploader\base64.h
+	<string>
+	<vector>
+
+1314574328 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\pausestate.cpp
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	"CGame.h"
+	"CFont.h"
+	"PauseState.h"
+
+1314574316 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\include\pausestate.h
+	<SDL.h>
+	"CGameState.h"
+	"CImage.h"
+
+1314568038 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\texturemanager.cpp
+	"TextureManager.h"
+	<iostream>
+
+1366668237 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\main.cpp
 	<iostream>
 	<cstdlib>
 	<string>
@@ -3625,62 +3858,39 @@
 	"CGame.h"
 	"MenuState.h"
 
-1313955914 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\include\cgame.h
-	<SDL.h>
-	"Graphics.h"
-	<stack>
+1365446744 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\maploader\tmxloader.cpp
+	"TMXLoader.h"
+	<iomanip>
+	<cmath>
 
-1313964868 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\include\menustate.h
-	<SDL.h>
-	"CGameState.h"
-	"CImage.h"
-
-1313955930 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\include\cgamestate.h
-	"CGame.h"
-
-1313956038 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\source\menustate.cpp
+1314568506 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\maploader\base64.cpp
+	"base64.h"
 	<iostream>
-	<SDL.h>
-	"Graphics.h"
-	"CGame.h"
-	"MenuState.h"
-	"PlayState.h"
+	<string>
 
-1313967092 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\include\playstate.h
-	<SDL.h>
-	"CGameState.h"
-	"CImage.h"
+1314568510 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\tinyxml\tinystr.cpp
+	"tinystr.h"
 
-1364695165 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\source\playstate.cpp
+1314568510 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1314568510 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1314568510 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1366668122 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework-aula3\source\playstate.cpp
 	<iostream>
 	<SDL.h>
 	"Graphics.h"
 	<cmath>
 	"CGame.h"
 	"PlayState.h"
-	"PauseState.h"
-
-1313954924 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\source\texturemanager.cpp
-	"TextureManager.h"
-	<iostream>
-
-1364685413 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\source\cgame.cpp
-	"CGame.h"
-	"CGameState.h"
-	<iostream>
-	<assert.h>
-	<cmath>
-
-1364695578 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\source\pausestate.cpp
-	<iostream>
-	<SDL.h>
-	"Graphics.h"
-	"CGame.h"
-	"PauseState.h"
-	"PlayState.h"
-
-1364695549 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\framework\include\pausestate.h
-	<SDL.h>
-	"CGameState.h"
-	"CImage.h"
 

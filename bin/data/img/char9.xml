@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="char9.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!--  -->
+    <SubTexture name="frame01" x="0"   y="40" height="128" width="128"/>
+    <SubTexture name="frame02" x="128" y="40" height="128" width="128"/>
+    <SubTexture name="frame03" x="256" y="40" height="128" width="128"/>
+    <SubTexture name="frame04" x="384" y="40" height="128" width="128"/>
+    <SubTexture name="frame05" x="0"   y="168" height="128" width="128"/>
+    <SubTexture name="frame06" x="128" y="168" height="128" width="128"/>
+</TextureAtlas>

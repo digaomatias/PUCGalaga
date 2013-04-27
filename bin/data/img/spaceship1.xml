@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:46d35fdd90c4bcefb1afa97436f80fab$ -->
+<TextureAtlas imagePath="spaceship1.png">
+    <SubTexture name="0" x="2" y="2" width="24" height="24"/>
+    <SubTexture name="1" x="28" y="2" width="24" height="24"/>
+    <SubTexture name="2" x="54" y="2" width="24" height="24"/>
+    <SubTexture name="3" x="80" y="2" width="24" height="24"/>
+    <SubTexture name="4" x="106" y="2" width="24" height="24"/>
+    <SubTexture name="5" x="132" y="2" width="24" height="24"/>
+    <SubTexture name="6" x="158" y="2" width="24" height="24"/>
+    <SubTexture name="7" x="158" y="2" width="24" height="24"/>
+</TextureAtlas>

@@ -16,9 +16,9 @@
 
 int main(int argc, char **argv)
 {
-    CGame game(5,120);
+    CGame game(5,30);
 
-    game.init("Framework com estados",800,600,0,false);
+    game.init("Framework com estados",640, 480,0,false);
 
     game.changeState(MenuState::instance());
 

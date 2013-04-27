@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:6d59406c0460b861d51c595712f8d41d$ -->
+<TextureAtlas imagePath="stars.png">
+    <SubTexture name="star1" x="2" y="2" width="23" height="23"/>
+    <SubTexture name="star2" x="27" y="2" width="23" height="23"/>
+    <SubTexture name="star3" x="52" y="2" width="23" height="23"/>
+</TextureAtlas>

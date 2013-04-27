@@ -653,4 +653,94 @@ CLASS="PROGRAMLISTING"
                             alien_xvel = 0;
                         break;
                     case SDLK_UP:
-                        if( alien_yvel &#
+                        if( alien_yvel &#60; 0 )
+                            alien_yvel = 0;
+                        break;
+                    case SDLK_DOWN:
+                        if( alien_yvel &#62; 0 )
+                            alien_yvel = 0;
+                        break;
+                    default:
+                        break;
+                }
+                break;
+            
+            default:
+                break;
+        }
+    }
+    .
+    .
+    /* Update the alien position */
+    alien_x += alien_xvel;
+    alien_y += alien_yvel;</PRE
+></DIV
+><P
+>As can be seen, we use two extra variables, alien_xvel and alien_yvel, which represent the motion of the ship, it is these variables that we update when we detect keypresses and releases.</P
+></DIV
+></DIV
+><DIV
+CLASS="NAVFOOTER"
+><HR
+ALIGN="LEFT"
+WIDTH="100%"><TABLE
+SUMMARY="Footer navigation table"
+WIDTH="100%"
+BORDER="0"
+CELLPADDING="0"
+CELLSPACING="0"
+><TR
+><TD
+WIDTH="33%"
+ALIGN="left"
+VALIGN="top"
+><A
+HREF="guideinput.html"
+ACCESSKEY="P"
+>Prev</A
+></TD
+><TD
+WIDTH="34%"
+ALIGN="center"
+VALIGN="top"
+><A
+HREF="index.html"
+ACCESSKEY="H"
+>Home</A
+></TD
+><TD
+WIDTH="33%"
+ALIGN="right"
+VALIGN="top"
+><A
+HREF="guideexamples.html"
+ACCESSKEY="N"
+>Next</A
+></TD
+></TR
+><TR
+><TD
+WIDTH="33%"
+ALIGN="left"
+VALIGN="top"
+>Input handling</TD
+><TD
+WIDTH="34%"
+ALIGN="center"
+VALIGN="top"
+><A
+HREF="guideinput.html"
+ACCESSKEY="U"
+>Up</A
+></TD
+><TD
+WIDTH="33%"
+ALIGN="right"
+VALIGN="top"
+>Examples</TD
+></TR
+></TABLE
+></DIV
+></BODY
+></HTML
+>

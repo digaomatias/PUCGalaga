@@ -20,8 +20,6 @@ QMAKE_CXXFLAGS += -m32
 
 LIBS += -framework SDL -framework SDL_image -framework SDL_image \
     -framework Cocoa \
-    ../../../lib/Box2D-2.1.0/lib-OSX/libBox2D.a \
-    ../../../lib/irrKlang-1.3.0/macosx-gcc/libirrklang.dylib \
     -lglew32
 #    SDLMain.o
 
@@ -31,7 +29,9 @@ INCLUDEPATH += ../../../include \
     /Library/Frameworks/SDL_image.framework/Headers \
     /Library/Frameworks/SDL_mixer.framework/Headers \
     ../../../lib/irrKlang-1.3.0/include \
-    ../../../lib/Box2D-2.1.0/include
+    ../../../lib/Box2D-2.1.0/include \
+    ../../../include/tinyxml \
+    ../../../include/maploader
 
 SOURCES += \
     ../../../source/CImage.cpp \
@@ -39,7 +39,18 @@ SOURCES += \
     ../../../source/MenuState.cpp \
     ../../../source/main.cpp \
     ../../../source/PlayState.cpp \
-    ../../../source/TextureManager.cpp
+    ../../../source/TextureManager.cpp \
+    ../../../source/CMultiImage.cpp \
+    ../../../source/CSprite.cpp \
+    ../../../source/CFont.cpp \
+    ../../../source/maploader/TMXLoader.cpp \
+    ../../../source/maploader/base64.cpp \
+    ../../../source/tinyxml/tinyxmlparser.cpp \
+    ../../../source/tinyxml/tinyxmlerror.cpp \
+    ../../../source/tinyxml/tinyxml.cpp \
+    ../../../source/tinyxml/tinystr.cpp \
+    ../../../source/PlaySpriteState.cpp \
+    ../../../source/PauseState.cpp
 
 OBJECTIVE_SOURCES += \
     ../../../source/SDLMain.m
@@ -51,7 +62,17 @@ HEADERS += \
     ../../../include/CImage.h \
     ../../../include/CGameState.h \
     ../../../include/CGame.h \
-    ../../../include/Graphics.h
+    ../../../include/Graphics.h \
+    ../../../include/CMultiImage.h \
+    ../../../include/CSprite.h \
+    ../../../include/CFont.h \
+    ../../../include/maploader/TMXLoader.h \
+    ../../../include/maploader/base64.h \
+    ../../../include/tinyxml/tinyxml.h \
+    ../../../include/tinyxml/tinystr.h \
+    ../../../include/TexRect.h \
+    ../../../include/PlaySpriteState.h \
+    ../../../include/PauseState.h
 
 OTHER_FILES += \
     ../../../bin/data/shaders/nightvision.vert
