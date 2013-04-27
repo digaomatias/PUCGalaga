@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b8396a6f7fb50b8e802d0af330757283$ -->
+<TextureAtlas imagePath="spaceshots.png">
+    <SubTexture name="spaceshot" x="2" y="2" width="11" height="11"/>
+    <SubTexture name="spaceshot2" x="15" y="2" width="11" height="11"/>
+</TextureAtlas>
