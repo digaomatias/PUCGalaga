@@ -44,7 +44,7 @@ class PlayState : public CGameState
     static PlayState m_PlayState; // singleton
 
     float dirx, diry; // movement direction
-    CSprite* player;  // player image
+    CSprite* player, *spaceshot;  // player image
     CImage* mapImage;
     Uint8* keyState;  // array to store keyboard state
     TMXLoader* map;   // map object

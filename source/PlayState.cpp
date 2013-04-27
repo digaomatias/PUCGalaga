@@ -19,12 +19,18 @@ PlayState PlayState::m_PlayState;
 using namespace std;
 
 #define SPEED 225
+#define SHOTSPEED 400
 
 void PlayState::init()
 {
     mapImage = new CImage();
     mapImage->loadImage("data/img/galaga_map.png");
     mapImage->setPosition(0,0);
+
+    spaceshot = new CSprite();
+    spaceshot->loadSpriteSparrowXML("data/img/spaceshots.xml");
+    spaceshot->setPosition(-10, -10); //Cria o tiro fora da tela pra só aparecer após apertar espaço.
+    spaceshot->setScale(2);
 
     player = new CSprite();
     // player->loadSprite("data/img/smurf_sprite.png", 128, 128, 0, 0, 0, 0, 7, 3, 16);
@@ -88,6 +94,10 @@ void PlayState::handleEvents(CGame* game)
                     case SDLK_ESCAPE:
                         game->quit();
                         break;
+                    case SDLK_SPACE:
+                        spaceshot->setPosition(player->getX(), player->getY());
+                        spaceshot->setYspeed(-SHOTSPEED);
+                        break;
                     default:
                         break;
                 }
@@ -134,6 +144,7 @@ void PlayState::update(CGame* game)
     game->updateCamera();
     // Atualiza a animação de frames e movimento do personagem
     player->update(game->getUpdateInterval());
+    spaceshot->update(game->getUpdateInterval());
 }
 
 void PlayState::draw(CGame* game)
@@ -153,5 +164,6 @@ void PlayState::draw(CGame* game)
     // Essa é a única forma de desenhar o personagem ENTRE as camadas
     mapImage->draw();
     player->draw();
+    spaceshot->drawFrame(0);
     SDL_GL_SwapBuffers();
 }

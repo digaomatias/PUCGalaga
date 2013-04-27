@@ -8,12 +8,26 @@ MenuState Cleanup Successful
 data/img/galaga_map.png has no alpha
 New texture: data/img/galaga_map.png
 Existing texture: data/img/galaga_map.png (2)
+CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/spaceshots.png
+Warning: data/img/spaceshots.png height isn't a power of 2!
+data/img/spaceshots.png has alpha
+New texture: data/img/spaceshots.png
+Existing texture: data/img/spaceshots.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 10 10
+Rect: 0.0714286,0.133333 - 0.464286,0.866667
+CSprite::VisitEnter SubTexture*
+Texture: 15 2 10 10
+Rect: 0.535714,0.133333 - 0.928571,0.866667
+CSprite::loadSpriteSparrowXML total frames = 2
 CSprite::loadSpriteSparrowXML data/img/spaceship1.xml
 CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceship1.png
 data/img/spaceship1.png has alpha
 New texture: data/img/spaceship1.png
-Existing texture: data/img/spaceship1.png (3)
+Existing texture: data/img/spaceship1.png (4)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 23 23
 Rect: 0.0108696,0.0714286 - 0.141304,0.928571
