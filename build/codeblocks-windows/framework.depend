@@ -4280,3 +4280,381 @@
 	<string>
 	<cmath>
 
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\cfont.cpp
+	"CFont.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\cfont.h
+	"CMultiImage.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\cmultiimage.h
+	<vector>
+	"CImage.h"
+	"TexRect.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\cimage.h
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	<SDL_image.h>
+
+1367185934 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1367185934 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_platform.h
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\begin_code.h
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\close_code.h
+
+1367185934 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185934 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185934 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185934 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185934 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_keysym.h
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\graphics.h
+	<SDL_opengl.h>
+	<GL/glext.h>
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<gl.h>
+	<glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<stddef.h>
+
+1367185935 c:\users\jeferson_chaves\documents\github\pucgalaga\lib\sdl-mingw\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\texrect.h
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\cgame.cpp
+	"CGame.h"
+	"CGameState.h"
+	<iostream>
+	<assert.h>
+	<cmath>
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\cgame.h
+	<SDL.h>
+	"Graphics.h"
+	<stack>
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\cgamestate.h
+	"CGame.h"
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\cimage.cpp
+	"CImage.h"
+	"TextureManager.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\texturemanager.h
+	"Graphics.h"
+	<map>
+	<string>
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\cmultiimage.cpp
+	<iostream>
+	"CMultiImage.h"
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\csprite.cpp
+	"CSprite.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\csprite.h
+	<vector>
+	"CMultiImage.h"
+	"TexRect.h"
+	"tinyxml.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\tinyxml\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\tinyxml\tinystr.h
+	<assert.h>
+	<string.h>
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\menustate.cpp
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	"CGame.h"
+	"MenuState.h"
+	"PlayState.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\menustate.h
+	<SDL.h>
+	"CGameState.h"
+	"CImage.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\playstate.h
+	<SDL.h>
+	"CGameState.h"
+	"CSprite.h"
+	"Player.h"
+	"maploader/TMXLoader.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\player.h
+	<vector>
+	"CMultiImage.h"
+	"CGame.h"
+	"CSprite.h"
+	"TexRect.h"
+	"tinyxml.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\maploader\tmxloader.h
+	"../CMultiImage.h"
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"base64.h"
+	"tinyxml.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\maploader\base64.h
+	<string>
+	<vector>
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\pausestate.cpp
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	"CGame.h"
+	"CFont.h"
+	"PauseState.h"
+
+1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\pausestate.h
+	<SDL.h>
+	"CGameState.h"
+	"CImage.h"
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\texturemanager.cpp
+	"TextureManager.h"
+	<iostream>
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cmath>
+	<SDL.h>
+	"CGame.h"
+	"MenuState.h"
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\maploader\tmxloader.cpp
+	"TMXLoader.h"
+	<iomanip>
+	<cmath>
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\maploader\base64.cpp
+	"base64.h"
+	<iostream>
+	<string>
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\tinyxml\tinystr.cpp
+	"tinystr.h"
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\tinyxml\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\tinyxml\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\tinyxml\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\player.cpp
+	<vector>
+	"Player.h"
+	<iostream>
+	<string>
+	<cmath>
+
