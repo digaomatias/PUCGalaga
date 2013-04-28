@@ -4183,10 +4183,11 @@
 	"CGameState.h"
 	"CImage.h"
 
-1367100129 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\include\playstate.h
+1367172113 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\include\playstate.h
 	<SDL.h>
 	"CGameState.h"
 	"CSprite.h"
+	"Player.h"
 	"maploader/TMXLoader.h"
 
 1346792090 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\include\maploader\tmxloader.h
@@ -4215,7 +4216,7 @@
 	"CGameState.h"
 	"CImage.h"
 
-1366752427 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\source\playstate.cpp
+1367174024 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\source\playstate.cpp
 	<iostream>
 	<SDL.h>
 	"Graphics.h"
@@ -4263,4 +4264,19 @@
 	<stddef.h>
 	"tinyxml.h"
 	<windows.h>
+
+1367174748 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\include\player.h
+	<vector>
+	"CMultiImage.h"
+	"CGame.h"
+	"CSprite.h"
+	"TexRect.h"
+	"tinyxml.h"
+
+1367173483 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\source\player.cpp
+	<vector>
+	"Player.h"
+	<iostream>
+	<string>
+	<cmath>
 

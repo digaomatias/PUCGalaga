@@ -13,6 +13,7 @@
 #include <SDL.h>
 #include "CGameState.h"
 #include "CSprite.h"
+#include "Player.h"
 #include "maploader/TMXLoader.h"
 
 class PlayState : public CGameState
@@ -44,7 +45,7 @@ class PlayState : public CGameState
     static PlayState m_PlayState; // singleton
 
     float dirx, diry; // movement direction
-    CSprite* player, *spaceshot;  // player image
+    Player* player;  // player image
     CImage* mapImage;
     Uint8* keyState;  // array to store keyboard state
     TMXLoader* map;   // map object
