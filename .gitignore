@@ -18,3 +18,4 @@
 
 # Logs
 bin/stdout.txt
+bin/stderr.txt

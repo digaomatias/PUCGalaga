@@ -4658,3 +4658,11 @@
 	<string>
 	<cmath>
 
+1367269039 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\playstate.cpp
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	<cmath>
+	"CGame.h"
+	"PlayState.h"
+

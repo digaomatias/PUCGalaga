@@ -51,6 +51,11 @@ void Player::update(double interval)
     for(vector<CSprite*>::iterator t = shotVector.begin(); t != shotVector.end(); ++t)
     {
         (*t)->update(interval);
+        float shootY = (*t)->getY();
+        /*if(shootY < 0)
+        {
+            t->
+        }*/
     }
 }
 
