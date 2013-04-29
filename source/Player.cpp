@@ -47,31 +47,25 @@ void Player::draw()
 void Player::update(double interval)
 {
     CSprite::update(interval);
-    vector<CSprite*> shootsToKeep = vector<CSprite*>();
-    vector<CSprite*> shootsToRemove = vector<CSprite*>();
 
-    for(vector<CSprite*>::iterator t = shotVector.begin(); t != shotVector.end(); ++t)
+    vector< CSprite * >::iterator iter = shotVector.begin();
+    vector< CSprite * >::iterator end  = shotVector.end();
+
+    while (iter != shotVector.end())
     {
-        (*t)->update(interval);
-        float shootY = (*t)->getY();
-        if(shootY >= 0)
+        CSprite * pItem = *iter;
+
+        if (pItem->getY() >= 0)
         {
-            shootsToKeep.push_back(*t);
+            pItem->update(interval);
+            ++iter;
         }
         else
         {
-            shootsToRemove.push_back(*t);
+            delete pItem;
+            iter = shotVector.erase(iter);
         }
     }
-
-    for(vector<CSprite*>::iterator t = shootsToRemove.begin(); t != shootsToRemove.end(); ++t)
-    {
-        delete *t;
-    }
-
-    shootsToRemove.clear();
-    shotVector.clear();
-    shotVector = shootsToKeep;
 }
 
 void Player::shoot()
