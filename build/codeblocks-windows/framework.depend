@@ -4556,7 +4556,7 @@
 	<assert.h>
 	<string.h>
 
-1367185936 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\menustate.cpp
+1367450130 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\menustate.cpp
 	<iostream>
 	<SDL.h>
 	"Graphics.h"
@@ -4564,10 +4564,11 @@
 	"MenuState.h"
 	"PlayState.h"
 
-1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\menustate.h
+1367450234 c:\users\jeferson_chaves\documents\github\pucgalaga\include\menustate.h
 	<SDL.h>
 	"CGameState.h"
 	"CImage.h"
+	"CSprite.h"
 
 1367185930 c:\users\jeferson_chaves\documents\github\pucgalaga\include\playstate.h
 	<SDL.h>
@@ -4651,7 +4652,7 @@
 	"tinyxml.h"
 	<windows.h>
 
-1367272320 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\player.cpp
+1367272449 source:c:\users\jeferson_chaves\documents\github\pucgalaga\source\player.cpp
 	<vector>
 	"Player.h"
 	<iostream>
