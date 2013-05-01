@@ -15,6 +15,7 @@
 #include "CSprite.h"
 #include "Player.h"
 #include "maploader/TMXLoader.h"
+#include "StarAnimator.h"
 
 class PlayState : public CGameState
 {
@@ -47,6 +48,7 @@ class PlayState : public CGameState
     float dirx, diry; // movement direction
     Player* player;  // player image
     CImage* mapImage;
+    StarAnimator* starAnimator;
     Uint8* keyState;  // array to store keyboard state
     TMXLoader* map;   // map object
 };

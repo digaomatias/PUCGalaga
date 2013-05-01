@@ -4183,12 +4183,13 @@
 	"CGameState.h"
 	"CImage.h"
 
-1367172113 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\include\playstate.h
+1367273259 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\include\playstate.h
 	<SDL.h>
 	"CGameState.h"
 	"CSprite.h"
 	"Player.h"
 	"maploader/TMXLoader.h"
+	"StarAnimator.h"
 
 1346792090 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\include\maploader\tmxloader.h
 	"../CMultiImage.h"
@@ -4216,13 +4217,14 @@
 	"CGameState.h"
 	"CImage.h"
 
-1367174024 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\source\playstate.cpp
+1367274284 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\source\playstate.cpp
 	<iostream>
 	<SDL.h>
 	"Graphics.h"
 	<cmath>
 	"CGame.h"
 	"PlayState.h"
+	"StarAnimator.h"
 
 1314568038 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\source\texturemanager.cpp
 	"TextureManager.h"
@@ -4273,10 +4275,27 @@
 	"TexRect.h"
 	"tinyxml.h"
 
-1367173483 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\source\player.cpp
+1367174879 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\source\player.cpp
 	<vector>
 	"Player.h"
 	<iostream>
 	<string>
 	<cmath>
+
+1367274453 c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\include\staranimator.h
+	<vector>
+	"CMultiImage.h"
+	"CGame.h"
+	"CSprite.h"
+	"TexRect.h"
+	"tinyxml.h"
+	"time.h"
+
+1367274578 source:c:\users\rodrigo\dropbox\aula\2013 i\entretenimento digital\galaga\source\staranimator.cpp
+	<iostream>
+	<SDL.h>
+	"Graphics.h"
+	<cmath>
+	"CGame.h"
+	"StarAnimator.h"
 

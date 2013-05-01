@@ -8,12 +8,3413 @@ MenuState Cleanup Successful
 data/img/galaga_map.png has no alpha
 New texture: data/img/galaga_map.png
 Existing texture: data/img/galaga_map.png (2)
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+New texture: data/img/stars.png
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
+CSprite::loadSpriteSparrowXML data/img/stars.xml
+CSprite::VisitEnter TextureAtlas*
+TextureAtlas: data/img/stars.png
+Warning: data/img/stars.png width isn't a power of 2!
+Warning: data/img/stars.png height isn't a power of 2!
+data/img/stars.png has alpha
+Existing texture: data/img/stars.png (3)
+CSprite::VisitEnter SubTexture*
+Texture: 2 2 22 22
+Rect: 0.025974,0.0740741 - 0.324675,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 27 2 22 22
+Rect: 0.350649,0.0740741 - 0.649351,0.925926
+CSprite::VisitEnter SubTexture*
+Texture: 52 2 22 22
+Rect: 0.675325,0.0740741 - 0.974026,0.925926
+CSprite::loadSpriteSparrowXML total frames = 3
 CSprite::loadSpriteSparrowXML data/img/spaceship1.xml
 CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceship1.png
 data/img/spaceship1.png has alpha
 New texture: data/img/spaceship1.png
-Existing texture: data/img/spaceship1.png (3)
+Existing texture: data/img/spaceship1.png (4)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 23 23
 Rect: 0.0108696,0.0714286 - 0.141304,0.928571
@@ -43,7 +3444,7 @@ CSprite::loadSpriteSparrowXML data/img/spaceship1.xml
 CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceship1.png
 data/img/spaceship1.png has alpha
-Existing texture: data/img/spaceship1.png (3)
+Existing texture: data/img/spaceship1.png (4)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 23 23
 Rect: 0.0108696,0.0714286 - 0.141304,0.928571
@@ -76,7 +3477,7 @@ TextureAtlas: data/img/spaceshots.png
 Warning: data/img/spaceshots.png height isn't a power of 2!
 data/img/spaceshots.png has alpha
 New texture: data/img/spaceshots.png
-Existing texture: data/img/spaceshots.png (4)
+Existing texture: data/img/spaceshots.png (5)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 10 10
 Rect: 0.0714286,0.133333 - 0.464286,0.866667
@@ -89,7 +3490,7 @@ CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceshots.png
 Warning: data/img/spaceshots.png height isn't a power of 2!
 data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
+Existing texture: data/img/spaceshots.png (5)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 10 10
 Rect: 0.0714286,0.133333 - 0.464286,0.866667
@@ -102,7 +3503,7 @@ CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceshots.png
 Warning: data/img/spaceshots.png height isn't a power of 2!
 data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
+Existing texture: data/img/spaceshots.png (5)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 10 10
 Rect: 0.0714286,0.133333 - 0.464286,0.866667
@@ -115,7 +3516,7 @@ CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceshots.png
 Warning: data/img/spaceshots.png height isn't a power of 2!
 data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
+Existing texture: data/img/spaceshots.png (5)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 10 10
 Rect: 0.0714286,0.133333 - 0.464286,0.866667
@@ -128,7 +3529,7 @@ CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceshots.png
 Warning: data/img/spaceshots.png height isn't a power of 2!
 data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
+Existing texture: data/img/spaceshots.png (5)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 10 10
 Rect: 0.0714286,0.133333 - 0.464286,0.866667
@@ -141,7 +3542,7 @@ CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceshots.png
 Warning: data/img/spaceshots.png height isn't a power of 2!
 data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
+Existing texture: data/img/spaceshots.png (5)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 10 10
 Rect: 0.0714286,0.133333 - 0.464286,0.866667
@@ -154,7 +3555,7 @@ CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceshots.png
 Warning: data/img/spaceshots.png height isn't a power of 2!
 data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
+Existing texture: data/img/spaceshots.png (5)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 10 10
 Rect: 0.0714286,0.133333 - 0.464286,0.866667
@@ -167,7 +3568,7 @@ CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceshots.png
 Warning: data/img/spaceshots.png height isn't a power of 2!
 data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
+Existing texture: data/img/spaceshots.png (5)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 10 10
 Rect: 0.0714286,0.133333 - 0.464286,0.866667
@@ -180,7 +3581,7 @@ CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceshots.png
 Warning: data/img/spaceshots.png height isn't a power of 2!
 data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
+Existing texture: data/img/spaceshots.png (5)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 10 10
 Rect: 0.0714286,0.133333 - 0.464286,0.866667
@@ -193,644 +3594,7 @@ CSprite::VisitEnter TextureAtlas*
 TextureAtlas: data/img/spaceshots.png
 Warning: data/img/spaceshots.png height isn't a power of 2!
 data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
-CSprite::VisitEnter SubTexture*
-Texture: 2 2 10 10
-Rect: 0.0714286,0.133333 - 0.464286,0.866667
-CSprite::VisitEnter SubTexture*
-Texture: 15 2 10 10
-Rect: 0.535714,0.133333 - 0.928571,0.866667
-CSprite::loadSpriteSparrowXML total frames = 2
-CSprite::loadSpriteSparrowXML data/img/spaceshots.xml
-CSprite::VisitEnter TextureAtlas*
-TextureAtlas: data/img/spaceshots.png
-Warning: data/img/spaceshots.png height isn't a power of 2!
-data/img/spaceshots.png has alpha
-Existing texture: data/img/spaceshots.png (4)
+Existing texture: data/img/spaceshots.png (5)
 CSprite::VisitEnter SubTexture*
 Texture: 2 2 10 10
 Rect: 0.0714286,0.133333 - 0.464286,0.866667

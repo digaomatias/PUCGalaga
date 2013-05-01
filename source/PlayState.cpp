@@ -13,6 +13,7 @@
 #include <cmath>
 #include "CGame.h"
 #include "PlayState.h"
+#include "StarAnimator.h"
 
 PlayState PlayState::m_PlayState;
 
@@ -30,6 +31,9 @@ void PlayState::init()
     spaceshot->loadSpriteSparrowXML("data/img/spaceshots.xml");
     spaceshot->setPosition(-10, -10); //Cria o tiro fora da tela pra só aparecer após apertar espaço.
     spaceshot->setScale(2);*/
+
+    starAnimator = new StarAnimator();
+    starAnimator->animate(200, 640, 480);
 
     player = new Player("data/img/spaceship1.xml", "data/img/spaceshots.xml");
     // player->loadSprite("data/img/smurf_sprite.png", 128, 128, 0, 0, 0, 0, 7, 3, 16);
@@ -141,6 +145,7 @@ void PlayState::update(CGame* game)
     // Atualiza a câmera de jogo
     game->updateCamera();
     // Atualiza a animação de frames e movimento do personagem
+    starAnimator->update(game->getUpdateInterval());
     player->update(game->getUpdateInterval());
     //spaceshot->update(game->getUpdateInterval());
 }
@@ -161,6 +166,7 @@ void PlayState::draw(CGame* game)
 
     // Essa é a única forma de desenhar o personagem ENTRE as camadas
     mapImage->draw();
+    starAnimator->draw();
     player->draw();
     //spaceshot->drawFrame(0);
     SDL_GL_SwapBuffers();
