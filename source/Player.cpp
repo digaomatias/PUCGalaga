@@ -48,9 +48,23 @@ void Player::update(double interval)
 {
     CSprite::update(interval);
 
-    for(vector<CSprite*>::iterator t = shotVector.begin(); t != shotVector.end(); ++t)
+    vector< CSprite * >::iterator iter = shotVector.begin();
+    vector< CSprite * >::iterator end  = shotVector.end();
+
+    while (iter != shotVector.end())
     {
-        (*t)->update(interval);
+        CSprite * pItem = *iter;
+
+        if (pItem->getY() >= 0)
+        {
+            pItem->update(interval);
+            ++iter;
+        }
+        else
+        {
+            delete pItem;
+            iter = shotVector.erase(iter);
+        }
     }
 }
 

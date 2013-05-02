@@ -113,10 +113,28 @@ void PlayState::handleEvents(CGame* game)
         //diry = keyState[SDLK_DOWN] *SPEED + keyState[SDLK_UP]  *-SPEED;
     }
 
-    // Seta velocidade atual do sprite
-    player->setXspeed(dirx);
-    player->setYspeed(diry);
-/*
+    //movimento para a direita
+    bool movimentoDireita = dirx > 0;
+    bool movimentoEsquerda = dirx < 0;
+    bool estaParado = dirx == 0;
+    float posicaoPlayerHorizontal = player->getX();
+    bool posicaoPlayerInicioEsquerda = posicaoPlayerHorizontal <= 5;
+    bool posicaoPlayerInicioDireita = posicaoPlayerHorizontal >= 612;
+    bool podeMovimentarEsquerda = (movimentoEsquerda && (!posicaoPlayerInicioEsquerda));
+    bool podeMovimentarDireita = podeMovimentarDireita = (movimentoDireita && (!posicaoPlayerInicioDireita));
+
+    if(podeMovimentarEsquerda || podeMovimentarDireita)
+    {
+        // Seta velocidade atual do sprite
+        player->setXspeed(dirx);
+        //player->setYspeed(diry);
+    }
+    else
+    {
+        player->setXspeed(0);
+    }
+
+    /*
     // Se uma das direções não for zero, ativa animação dos frames do personagem
     if(dirx || diry)
         player->setAnimRate(30);
@@ -132,7 +150,8 @@ void PlayState::handleEvents(CGame* game)
         player->setMirror(false);
         // Se for para a esquerda, liga
     else if(dirx < 0)
-        player->setMirror(true);*/
+        player->setMirror(true);
+    */
 }
 
 void PlayState::update(CGame* game)
