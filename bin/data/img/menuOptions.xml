@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="menuOptions.png">
+    <!-- Created with TexturePacker -->
+    <!-- http://texturepacker.com -->
+    <!--  -->
+    <SubTexture name="menuOptions-off" x="0" y="0" height="96" width="321"/>
+    <SubTexture name="menuOptions-on" x="0" y="96" height="96" width="321"/>
+</TextureAtlas>

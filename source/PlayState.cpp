@@ -14,7 +14,7 @@
 #include "CGame.h"
 #include "PlayState.h"
 #include "StarAnimator.h"
-
+#include "PauseState.h"
 PlayState PlayState::m_PlayState;
 
 using namespace std;
@@ -94,11 +94,14 @@ void PlayState::handleEvents(CGame* game)
 
             case SDL_KEYDOWN:
 				switch(event.key.keysym.sym){
-                    case SDLK_ESCAPE:
-                        game->quit();
-                        break;
                     case SDLK_SPACE:
                         player->shoot();
+                        break;
+                    case SDLK_p:
+                        game->pushState(PauseState::instance());
+                        break;
+                    case SDLK_ESCAPE:
+                        game->quit();
                         break;
                     default:
                         break;
