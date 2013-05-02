@@ -16,9 +16,9 @@
 
 using namespace std;
 
-#define BIGSTARSPEED 100
-#define MEDIUMSTARSPEED 200
-#define SMALLSTARSPEED 275
+#define BIGSTARSPEED 50
+#define MEDIUMSTARSPEED 150
+#define SMALLSTARSPEED 250
 
 StarAnimator::StarAnimator()
 {
