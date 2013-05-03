@@ -60,6 +60,7 @@
 		<Unit filename="..\..\include\PauseState.h" />
 		<Unit filename="..\..\include\PlayState.h" />
 		<Unit filename="..\..\include\Player.h" />
+		<Unit filename="..\..\include\StarAnimator.h" />
 		<Unit filename="..\..\include\TextureManager.h" />
 		<Unit filename="..\..\source\CFont.cpp" />
 		<Unit filename="..\..\source\CGame.cpp" />
@@ -70,6 +71,7 @@
 		<Unit filename="..\..\source\PauseState.cpp" />
 		<Unit filename="..\..\source\PlayState.cpp" />
 		<Unit filename="..\..\source\Player.cpp" />
+		<Unit filename="..\..\source\StarAnimator.cpp" />
 		<Unit filename="..\..\source\TextureManager.cpp" />
 		<Unit filename="..\..\source\main.cpp" />
 		<Unit filename="..\..\source\maploader\TMXLoader.cpp" />
