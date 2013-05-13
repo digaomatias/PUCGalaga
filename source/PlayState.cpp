@@ -97,11 +97,8 @@ void PlayState::handleEvents(CGame* game)
                     case SDLK_SPACE:
                         player->shoot();
                         break;
-                    case SDLK_p:
-                        game->pushState(PauseState::instance());
-                        break;
                     case SDLK_ESCAPE:
-                        game->quit();
+                        game->pushState(PauseState::instance());
                         break;
                     default:
                         break;

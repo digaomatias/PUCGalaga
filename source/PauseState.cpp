@@ -50,11 +50,8 @@ void PauseState::handleEvents(CGame* game)
 
             case SDL_KEYDOWN:
 				switch(event.key.keysym.sym){
-                    case SDLK_p:
-                        game->popState();
-                        break;
                     case SDLK_ESCAPE:
-                        game->quit();
+                        game->popState();
                         break;
                     default:
                         break;
@@ -75,7 +72,7 @@ void PauseState::draw(CGame* game)
     pauseSprite->setScale(1);
     pauseSprite->draw();
     glLoadIdentity();
-    pauseFont->draw(250,300,"Press P to resume game");
+    pauseFont->draw(250,300,"Press ESC to resume game");
     SDL_GL_SwapBuffers();
 }
 
