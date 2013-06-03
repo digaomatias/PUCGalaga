@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e20f8e0cfe21c0e2fb85b47e1e9f6732$ -->
 <TextureAtlas imagePath="menuNewGame.png">
-    <!-- Created with TexturePacker -->
-    <!-- http://texturepacker.com -->
-    <!--  -->
-    <SubTexture name="menuNewGame-off" x="0" y="0" height="96" width="433"/>
-    <SubTexture name="menuNewGame-on" x="0" y="96" height="96" width="433"/>
+    <SubTexture name="novojogo_ns" x="2" y="2" width="310" height="42"/>
+    <SubTexture name="novojogo_s" x="2" y="46" width="310" height="42"/>
 </TextureAtlas>

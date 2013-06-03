@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:6862eb0c135cdbf0e2509242358fd9a9$ -->
 <TextureAtlas imagePath="menuOptions.png">
-    <!-- Created with TexturePacker -->
-    <!-- http://texturepacker.com -->
-    <!--  -->
-    <SubTexture name="menuOptions-off" x="0" y="0" height="96" width="321"/>
-    <SubTexture name="menuOptions-on" x="0" y="96" height="96" width="321"/>
+    <SubTexture name="instrucoes_ns" x="2" y="2" width="354" height="69"/>
+    <SubTexture name="instrucoes_s" x="2" y="73" width="354" height="69"/>
 </TextureAtlas>

@@ -13,6 +13,7 @@
 #include <SDL.h>
 #include "CGameState.h"
 #include "CImage.h"
+#include "CSprite.h"
 
 
 class CFont;
@@ -45,8 +46,9 @@ class PauseState : public CGameState
 
     static PauseState m_PauseState;
 
-    CImage* pauseSprite;
-    CFont*  pauseFont;
+    CImage* titleImage;
+    CSprite* options[3];
+    int opcaoSel;
 
 };
 

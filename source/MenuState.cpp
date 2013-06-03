@@ -13,6 +13,7 @@
 #include "CGame.h"
 #include "MenuState.h"
 #include "PlayState.h"
+#include "OptionsState.h"
 
 MenuState MenuState::m_MenuState;
 
@@ -25,7 +26,7 @@ void MenuState::init()
 
     options[0] = new CSprite();
     options[0]->loadSpriteSparrowXML("data/img/menuNewGame.xml");
-    options[0]->setPosition(80,180);
+    options[0]->setPosition(80,220);
 
     options[1] = new CSprite();
     options[1]->loadSpriteSparrowXML("data/img/menuOptions.xml");
@@ -79,8 +80,8 @@ void MenuState::handleEvents(CGame* game)
                             if(opcaoSel == 0)
                                 game->changeState(PlayState::instance());
                         else
-                            cout << "Estado de Options" << endl;
-                        break;
+                            game->pushState(OptionsState::instance());
+                            break;
                     case SDLK_UP:
                         opcaoSel--;
                         if(opcaoSel < 0)

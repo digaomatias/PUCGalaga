@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:6dd1357dd39e9cf31e30ddbad0ca6b0b$ -->
+<TextureAtlas imagePath="menuGoBack.png">
+    <SubTexture name="voltar_ns" x="2" y="2" width="221" height="42"/>
+    <SubTexture name="voltar_s" x="2" y="46" width="220" height="42"/>
+</TextureAtlas>

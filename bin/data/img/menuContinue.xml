@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:65f379f9eaf6a7f7c1add3b50cb4b616$ -->
+<TextureAtlas imagePath="menuContinue.png">
+    <SubTexture name="continuar_ns" x="2" y="2" width="332" height="42"/>
+    <SubTexture name="continuar_s" x="2" y="46" width="332" height="42"/>
+</TextureAtlas>

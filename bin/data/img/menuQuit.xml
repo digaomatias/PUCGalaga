@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:b29b67023665869ff10780eb91939455$ -->
 <TextureAtlas imagePath="menuQuit.png">
-    <!-- Created with TexturePacker -->
-    <!-- http://texturepacker.com -->
-    <!--  -->
-    <SubTexture name="menuQuit-off" x="0" y="0" height="96" width="181"/>
-    <SubTexture name="menuQuit-on" x="0" y="96" height="96" width="181"/>
+    <SubTexture name="sair_ns" x="2" y="2" width="134" height="42"/>
+    <SubTexture name="sair_s" x="2" y="46" width="134" height="42"/>
 </TextureAtlas>
