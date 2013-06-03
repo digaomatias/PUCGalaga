@@ -19,3 +19,7 @@
 # Logs
 bin/stdout.txt
 bin/stderr.txt
+
+#
+build\codeblocks-windows\framework.depend
+build\codeblocks-windows\framework.layout

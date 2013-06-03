@@ -14,6 +14,11 @@
 #include "CGame.h"
 #include "MenuState.h"
 
+// Enable SDL console in Win 32
+#ifdef WIN32
+#undef main
+#endif
+
 int main(int argc, char **argv)
 {
     CGame game(5,30);
