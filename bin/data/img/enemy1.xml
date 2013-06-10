@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:18b35531c6eb9516d478eb8905900921$ -->
+<TextureAtlas imagePath="enemy1.png">
+    <SubTexture name="enemy1-1" x="2" y="2" width="24" height="24"/>
+    <SubTexture name="enemy1-2" x="28" y="2" width="24" height="24"/>
+    <SubTexture name="enemy1-3" x="54" y="2" width="24" height="24"/>
+    <SubTexture name="enemy1-4" x="80" y="2" width="24" height="24"/>
+    <SubTexture name="enemy1-5" x="106" y="2" width="24" height="24"/>
+    <SubTexture name="enemy1-6" x="132" y="2" width="24" height="24"/>
+    <SubTexture name="enemy1-7" x="158" y="2" width="24" height="24"/>
+    <SubTexture name="enemy1-8" x="184" y="2" width="24" height="24"/>
+</TextureAtlas>

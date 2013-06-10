@@ -33,7 +33,7 @@ void PlayState::init()
     spaceshot->setScale(2);*/
 
     starAnimator = new StarAnimator();
-    starAnimator->animate(200, 640, 480);
+    starAnimator->animate(100, 640, 480);
 
     player = new Player("data/img/spaceship1.xml", "data/img/spaceshots.xml");
     // player->loadSprite("data/img/smurf_sprite.png", 128, 128, 0, 0, 0, 0, 7, 3, 16);
@@ -46,6 +46,14 @@ void PlayState::init()
     player->setAnimRate(0);
     player->setCurrentFrame(6);
     player->setScale(2);
+
+    enemy->loadSpriteSparrowXML("data/img/spaceship1.xml");
+    // Posição inicial
+    enemy->setPosition(320,50);
+    // Taxa de animação: zero no início (personagem está parado)
+    enemy->setAnimRate(0);
+    enemy->setCurrentFrame(0);
+    enemy->setScale(2);
     dirx = 0; // direção do personagem: para a direita (5), esquerda (-5)
     diry = 0; // direção do personagem: para cima (5), baixo (-5)
 

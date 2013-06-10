@@ -47,6 +47,7 @@ class PlayState : public CGameState
 
     float dirx, diry; // movement direction
     Player* player;  // player image
+    Enemy* enemy;  // player image
     CImage* mapImage;
     StarAnimator* starAnimator;
     Uint8* keyState;  // array to store keyboard state

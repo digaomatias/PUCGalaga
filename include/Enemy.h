@@ -1,5 +1,5 @@
-#ifndef PLAYER_H
-#define PLAYER_H
+#ifndef ENEMY_H
+#define ENEMY_H
 
 /*
  *  CSprite.cpp
@@ -17,11 +17,11 @@
 #include "TexRect.h"
 #include "tinyxml.h"
 
-class Player : public CSprite
+class Enemy : public CSprite
 {
 public:
-        Player(char* sparrowPath, char* shotSparrowPath);
-        ~Player();
+        Enemy(char* sparrowPath, char* shotSparrowPath, CGame* game);
+        ~Enemy();
         void draw();
         void shoot();
         void update(double updateInterval);
@@ -29,6 +29,7 @@ public:
 private:
         std::vector <CSprite*> shotVector;
         char* shotPath;
+        CGame* game; //game is only used to clean up the shots
 };
 
 #endif // CSPRITE_H
