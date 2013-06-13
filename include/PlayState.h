@@ -16,6 +16,7 @@
 #include "Player.h"
 #include "maploader/TMXLoader.h"
 #include "StarAnimator.h"
+#include "Enemy.h"
 
 class PlayState : public CGameState
 {

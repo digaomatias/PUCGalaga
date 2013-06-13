@@ -30,6 +30,14 @@ private:
         std::vector <CSprite*> shotVector;
         char* shotPath;
         CGame* game; //game is only used to clean up the shots
+        double xspeed,yspeed;       // speed in pixels/s
+        int updateCount;            // current count of updates
+        int firstFrame, lastFrame; // frame range
+        int curframe;		        // current frame
+        double curFrameD;           // the current frame as double
+        int framecount,framedelay;  // slow down the frame animation
+        int spriteW, spriteH;       // width and height of a single sprite frame
+
 };
 
-#endif // CSPRITE_H
+#endif // ENEMY_H

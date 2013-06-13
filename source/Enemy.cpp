@@ -24,9 +24,10 @@ Enemy::~Enemy()
 // Construtor
 Enemy::Enemy(char* sparrowPath, char* shotSparrowPath, CGame* game) : CSprite()
 {
-    this.game = game;
+    //this.game = game;
     loadSpriteSparrowXML(sparrowPath);
     shotPath = shotSparrowPath;
+    this->game = game;
     firstFrame = 0;
     lastFrame = 0;
     curFrameD = 0.0;

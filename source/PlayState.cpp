@@ -47,13 +47,15 @@ void PlayState::init()
     player->setCurrentFrame(6);
     player->setScale(2);
 
-    enemy->loadSpriteSparrowXML("data/img/spaceship1.xml");
+    enemy = new Enemy("data/img/enemy1.xml", "data/img/spaceshots.xml", NULL /*CGame*/);
+    enemy->loadSpriteSparrowXML("data/img/enemy1.xml");
     // Posição inicial
     enemy->setPosition(320,50);
     // Taxa de animação: zero no início (personagem está parado)
     enemy->setAnimRate(0);
     enemy->setCurrentFrame(0);
     enemy->setScale(2);
+
     dirx = 0; // direção do personagem: para a direita (5), esquerda (-5)
     diry = 0; // direção do personagem: para cima (5), baixo (-5)
 
@@ -174,6 +176,7 @@ void PlayState::update(CGame* game)
     // Atualiza a animação de frames e movimento do personagem
     starAnimator->update(game->getUpdateInterval());
     player->update(game->getUpdateInterval());
+    enemy->update(game->getUpdateInterval());
     //spaceshot->update(game->getUpdateInterval());
 }
 
@@ -195,6 +198,7 @@ void PlayState::draw(CGame* game)
     mapImage->draw();
     starAnimator->draw();
     player->draw();
+    enemy->draw();
     //spaceshot->drawFrame(0);
     SDL_GL_SwapBuffers();
 }
