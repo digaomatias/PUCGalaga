@@ -70,8 +70,6 @@
 		<Unit filename="../../source/CImage.cpp" />
 		<Unit filename="../../source/CMultiImage.cpp" />
 		<Unit filename="../../source/CSprite.cpp" />
-		<Unit filename="../../source/Enemy.cpp" />
-		<Unit filename="../../source/EnemyAnimator.cpp" />
 		<Unit filename="../../source/MenuState.cpp" />
 		<Unit filename="../../source/OptionsState.cpp" />
 		<Unit filename="../../source/PauseState.cpp" />

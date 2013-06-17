@@ -37,4 +37,4 @@ private:
         CSprite* boom;
 };
 
-#endif // CSPRITE_H
+#endif // ENEMY_H
