@@ -16,6 +16,7 @@
 #include "CSprite.h"
 #include "TexRect.h"
 #include "tinyxml.h"
+#include "CFont.h"
 
 class Player : public CSprite
 {
@@ -37,6 +38,10 @@ private:
         double curFrameD;           // the current frame as double
         int framecount,framedelay;  // slow down the frame animation
         int spriteW, spriteH;       // width and height of a single sprite frame
+        CSprite* firstLife;
+        CSprite* secondLife;
+        CSprite* thirdLife;
+        int lifeQuantity;
 
 };
 

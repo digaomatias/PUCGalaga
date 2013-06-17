@@ -17,6 +17,7 @@
 #include "maploader/TMXLoader.h"
 #include "StarAnimator.h"
 #include "EnemyAnimator.h"
+#include "CFont.h"
 
 class PlayState : public CGameState
 {
@@ -52,7 +53,8 @@ class PlayState : public CGameState
     CImage* mapImage;
     StarAnimator* starAnimator;
     Uint8* keyState;  // array to store keyboard state
-    TMXLoader* map;   // map object
+    CFont* scoreFont;
+    int score;
 };
 
 #endif

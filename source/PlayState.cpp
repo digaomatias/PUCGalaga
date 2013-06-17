@@ -7,6 +7,7 @@
  *
  */
 
+#include <sstream>
 #include <iostream>
 #include <SDL.h>
 #include "Graphics.h"
@@ -54,16 +55,15 @@ void PlayState::init()
     dirx = 0; // direção do personagem: para a direita (5), esquerda (-5)
     diry = 0; // direção do personagem: para cima (5), baixo (-5)
 
-    //map = new TMXLoader();
-    // Carrega mapa com duas camadas
-    //map->loadMap("data/maps/desert2.tmx");
-
-    // Adiciona o jogador na lista de objetos que o mapa deve desenhar
-    // na camada especificada (default: primeira camada - 0)
-    //map->addImageObjec(player);
     // O mapa tem DUAS camadas: na segunda camada ha apenas um "pilar" azul
 
     keyState = SDL_GetKeyState(0); // get key state array
+
+    scoreFont = new CFont();
+    scoreFont->loadFont("data/fonts/lucida12.png", 112, 208);
+
+    score = 0;
+
     cout << "PlayState Init Successful" << endl;
 }
 
@@ -71,7 +71,10 @@ void PlayState::cleanup()
 {
     // Libera memória
     delete player;
-    delete map;
+    delete enemyAnimator1;
+    delete mapImage;
+    delete starAnimator;
+    delete scoreFont;
 	cout << "PlayState Clean Successful" << endl;
 }
 
@@ -139,40 +142,16 @@ void PlayState::handleEvents(CGame* game)
         player->setXspeed(0);
     }
 
-    /*
-    // Se uma das direções não for zero, ativa animação dos frames do personagem
-    if(dirx || diry)
-        player->setAnimRate(30);
-    else {
-        // Caso contrário, pára a animação dos frames
-        // e fixa o frame atual no 3 (Smurf parado)
-        player->setAnimRate(0);
-        player->setCurrentFrame(3);
-    }
-
-    // Se movimento for para a direita, desliga o "mirror" do personagem
-    if(dirx > 0)
-        player->setMirror(false);
-        // Se for para a esquerda, liga
-    else if(dirx < 0)
-        player->setMirror(true);
-    */
 }
 
 void PlayState::update(CGame* game)
 {
-    //float x = player->getX();
-    //float y = player->getY();
-    // Seta o pan da câmera de jogo, de forma a centralizar o personagem
-    //game->setXpan(x-game->getWidth()/2);
-    //game->setYpan(y-game->getHeight()/2);
     // Atualiza a câmera de jogo
     game->updateCamera();
     // Atualiza a animação de frames e movimento do personagem
     starAnimator->update(game->getUpdateInterval());
     player->update(game->getUpdateInterval());
     enemyAnimator1->update(game->getUpdateInterval(), game, player->getShots());
-    //spaceshot->update(game->getUpdateInterval());
 }
 
 void PlayState::draw(CGame* game)
@@ -181,19 +160,17 @@ void PlayState::draw(CGame* game)
     glClear(GL_COLOR_BUFFER_BIT);
     glLoadIdentity();
 
-    // Não desenha mais diretamente o personagem
-    //player->setRotation(0);
-    //player->setScale(1);
-    //player->draw();
-
-    // Agora o mapa e' responsavel por desenhar o jogador, imediatamente depois
-    // da camada 0 (primeira camada do mapa)
-
     // Essa é a única forma de desenhar o personagem ENTRE as camadas
     mapImage->draw();
     starAnimator->draw();
     player->draw();
     enemyAnimator1->draw();
-    //spaceshot->drawFrame(0);
+
+    //std::stringstream sstm;
+    //sstm << "SCORE" << score;
+
+    //draw score
+    //scoreFont->draw(400,460, sstm.str().c_str());
+
     SDL_GL_SwapBuffers();
 }
