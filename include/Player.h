@@ -27,6 +27,7 @@ public:
         void shoot();
         void update(double updateInterval);
         std::vector<CSprite*> getShots();
+        void hit();
 
 private:
         std::vector <CSprite*> shotVector;

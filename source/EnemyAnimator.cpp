@@ -27,6 +27,8 @@ EnemyAnimator::EnemyAnimator(int amount, int width, int height, char* sparrowXML
     screen_width = width;
     screen_height = height;
 
+    deadEnemyQuantity = 0;
+
     allocateEnemies(amount, sparrowPath, shotSparrowPath, life);
 }
 
@@ -69,13 +71,16 @@ void EnemyAnimator::handleShotsCollision(Enemy* enemy, vector<CSprite*> shots)
         if(shot->bboxCollision(enemy))
         {
             enemy->hit();
+            deadEnemyQuantity++;
             shot->setY(-1);
         }
     }
 }
 
-void EnemyAnimator::update(double interval, CGame* game, vector<CSprite*> shots)
+void EnemyAnimator::update(double interval, CGame* game, Player* player)
 {
+    vector<CSprite*> shots = player->getShots();
+
     for(vector<Enemy*>::iterator i = enemies.begin(); i != enemies.end();)
     {
         Enemy* enemy = (*i);
@@ -89,9 +94,11 @@ void EnemyAnimator::update(double interval, CGame* game, vector<CSprite*> shots)
          }
 
         if(!enemy->isExploding() && !enemy->isDead())
+        {
             handleShotsCollision(enemy, shots);
+        }
 
-        enemy->update(interval, game);
+        enemy->update(interval, game, player);
 
         //1 chance em 5 de atirar
         if(!enemy->isDead() && enemy->getY()>0 && rand()%100 == 0)
@@ -113,6 +120,7 @@ void EnemyAnimator::update(double interval, CGame* game, vector<CSprite*> shots)
             enemy->setFrameRange(0,1);
             enemy->setMirror(true);
         }
+
         ++i;
     }
 
@@ -126,4 +134,9 @@ void EnemyAnimator::draw()
     {
             (*i)->draw();
     }
+}
+
+int EnemyAnimator::getDeadEnemyQuantity()
+{
+    return deadEnemyQuantity;
 }

@@ -16,6 +16,7 @@
 #include "CSprite.h"
 #include "TexRect.h"
 #include "tinyxml.h"
+#include "Player.h"
 
 class Enemy : public CSprite
 {
@@ -24,7 +25,7 @@ public:
         ~Enemy();
         void draw();
         void shoot();
-        void update(double updateInterval, CGame* game);
+        void update(double updateInterval, CGame* game, Player* player);
         bool isDead();
         bool isShooting();
         bool isExploding();

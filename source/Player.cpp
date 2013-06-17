@@ -117,4 +117,9 @@ vector<CSprite*> Player::getShots()
     return shotVector;
 }
 
+void Player::hit()
+{
+    lifeQuantity--;
+}
+
 

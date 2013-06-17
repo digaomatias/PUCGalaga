@@ -50,7 +50,7 @@ void Enemy::draw()
         boom->draw();
 }
 
-void Enemy::update(double interval, CGame* game)
+void Enemy::update(double interval, CGame* game, Player* player)
 {
     if(exploding)
     {
@@ -65,7 +65,9 @@ void Enemy::update(double interval, CGame* game)
         }
     }
     else
+    {
         CSprite::update(interval);
+    }
 
     vector< CSprite * >::iterator iter = shotVector.begin();
 
@@ -76,6 +78,13 @@ void Enemy::update(double interval, CGame* game)
         if (pItem->getY() <= game->getHeight())
         {
             pItem->update(interval);
+            if(pItem->bboxCollision(player))
+            {
+                delete pItem;
+                iter = shotVector.erase(iter);
+                player->hit();
+                continue;
+            }
             ++iter;
         }
         else

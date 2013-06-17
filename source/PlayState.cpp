@@ -60,8 +60,8 @@ void PlayState::init()
     keyState = SDL_GetKeyState(0); // get key state array
 
     scoreFont = new CFont();
-    scoreFont->loadFont("data/fonts/lucida12.png", 112, 208);
-
+    //scoreFont->loadFont("data/fonts/lucida12.png", 112, 208);
+    scoreFont->loadFont("data/fonts/arialblack28.png", 448, 640);
     score = 0;
 
     cout << "PlayState Init Successful" << endl;
@@ -151,7 +151,11 @@ void PlayState::update(CGame* game)
     // Atualiza a animação de frames e movimento do personagem
     starAnimator->update(game->getUpdateInterval());
     player->update(game->getUpdateInterval());
-    enemyAnimator1->update(game->getUpdateInterval(), game, player->getShots());
+    enemyAnimator1->update(game->getUpdateInterval(), game, player);
+
+    score = (enemyAnimator1->getDeadEnemyQuantity() * 10);
+
+    //check if player has no more lifes to show a game over
 }
 
 void PlayState::draw(CGame* game)
@@ -166,11 +170,12 @@ void PlayState::draw(CGame* game)
     player->draw();
     enemyAnimator1->draw();
 
-    //std::stringstream sstm;
-    //sstm << "SCORE" << score;
+    std::stringstream sstm;
+    sstm << "SCORE: " << score;
 
     //draw score
-    //scoreFont->draw(400,460, sstm.str().c_str());
+    //scoreFont->draw(480,460, const_cast<char *>(sstm.str().c_str()));
+    scoreFont->draw(300,440, const_cast<char *>(sstm.str().c_str()));
 
     SDL_GL_SwapBuffers();
 }
