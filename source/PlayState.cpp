@@ -15,6 +15,7 @@
 #include "PlayState.h"
 #include "StarAnimator.h"
 #include "PauseState.h"
+#include "EnemyAnimator.h"
 PlayState PlayState::m_PlayState;
 
 using namespace std;
@@ -33,7 +34,7 @@ void PlayState::init()
     spaceshot->setScale(2);*/
 
     starAnimator = new StarAnimator();
-    starAnimator->animate(100, 640, 480);
+    starAnimator->animate(70, 640, 480);
 
     player = new Player("data/img/spaceship1.xml", "data/img/spaceshots.xml");
     // player->loadSprite("data/img/smurf_sprite.png", 128, 128, 0, 0, 0, 0, 7, 3, 16);
@@ -45,15 +46,11 @@ void PlayState::init()
     // Taxa de animação: zero no início (personagem está parado)
     player->setAnimRate(0);
     player->setCurrentFrame(6);
-    player->setScale(2);
+    player->setScale(1.5);
 
-    enemy->loadSpriteSparrowXML("data/img/spaceship1.xml");
-    // Posição inicial
-    enemy->setPosition(320,50);
+    enemyAnimator1 = new EnemyAnimator(10, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1);
+
     // Taxa de animação: zero no início (personagem está parado)
-    enemy->setAnimRate(0);
-    enemy->setCurrentFrame(0);
-    enemy->setScale(2);
     dirx = 0; // direção do personagem: para a direita (5), esquerda (-5)
     diry = 0; // direção do personagem: para cima (5), baixo (-5)
 
@@ -63,7 +60,7 @@ void PlayState::init()
 
     // Adiciona o jogador na lista de objetos que o mapa deve desenhar
     // na camada especificada (default: primeira camada - 0)
-    //map->addImageObject(player);
+    //map->addImageObjec(player);
     // O mapa tem DUAS camadas: na segunda camada ha apenas um "pilar" azul
 
     keyState = SDL_GetKeyState(0); // get key state array
@@ -174,6 +171,7 @@ void PlayState::update(CGame* game)
     // Atualiza a animação de frames e movimento do personagem
     starAnimator->update(game->getUpdateInterval());
     player->update(game->getUpdateInterval());
+    enemyAnimator1->update(game->getUpdateInterval(), game, player->getShots());
     //spaceshot->update(game->getUpdateInterval());
 }
 
@@ -195,6 +193,7 @@ void PlayState::draw(CGame* game)
     mapImage->draw();
     starAnimator->draw();
     player->draw();
+    enemyAnimator1->draw();
     //spaceshot->drawFrame(0);
     SDL_GL_SwapBuffers();
 }

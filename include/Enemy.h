@@ -20,16 +20,21 @@
 class Enemy : public CSprite
 {
 public:
-        Enemy(char* sparrowPath, char* shotSparrowPath, CGame* game);
+        Enemy(char* sparrowPath, char* shotSparrowPath, int life);
         ~Enemy();
         void draw();
         void shoot();
-        void update(double updateInterval);
-
+        void update(double updateInterval, CGame* game);
+        bool isDead();
+        bool isShooting();
+        bool isExploding();
+        void hit();
 private:
         std::vector <CSprite*> shotVector;
         char* shotPath;
-        CGame* game; //game is only used to clean up the shots
+        int lives;
+        bool exploding;
+        CSprite* boom;
 };
 
 #endif // CSPRITE_H

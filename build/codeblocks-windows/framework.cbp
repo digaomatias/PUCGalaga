@@ -55,6 +55,8 @@
 		<Unit filename="../../include/CImage.h" />
 		<Unit filename="../../include/CMultiImage.h" />
 		<Unit filename="../../include/CSprite.h" />
+		<Unit filename="../../include/Enemy.h" />
+		<Unit filename="../../include/EnemyAnimator.h" />
 		<Unit filename="../../include/Graphics.h" />
 		<Unit filename="../../include/MenuState.h" />
 		<Unit filename="../../include/OptionsState.h" />
@@ -68,6 +70,8 @@
 		<Unit filename="../../source/CImage.cpp" />
 		<Unit filename="../../source/CMultiImage.cpp" />
 		<Unit filename="../../source/CSprite.cpp" />
+		<Unit filename="../../source/Enemy.cpp" />
+		<Unit filename="../../source/EnemyAnimator.cpp" />
 		<Unit filename="../../source/MenuState.cpp" />
 		<Unit filename="../../source/OptionsState.cpp" />
 		<Unit filename="../../source/PauseState.cpp" />

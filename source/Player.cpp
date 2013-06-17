@@ -26,12 +26,6 @@ Player::Player(char* sparrowPath, char* shotSparrowPath) : CSprite()
 {
     loadSpriteSparrowXML(sparrowPath);
     shotPath = shotSparrowPath;
-    firstFrame = 0;
-    lastFrame = 0;
-    curFrameD = 0.0;
-    curframe = 0;
-    curframe = 0;
-    framedelay = 10;
 }
 
 void Player::draw()
@@ -78,6 +72,11 @@ void Player::shoot()
     shotSprite->setScale(2);
     shotSprite->setYspeed(-SHOTSPEED);
     shotVector.push_back(shotSprite);
+}
+
+vector<CSprite*> Player::getShots()
+{
+    return shotVector;
 }
 
 
