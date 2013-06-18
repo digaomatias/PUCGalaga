@@ -122,4 +122,7 @@ void Player::hit()
     lifeQuantity--;
 }
 
-
+bool Player::dead()
+{
+    return (lifeQuantity < 1);
+}

@@ -7,9 +7,9 @@
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="..\..\bin\framework" prefix_auto="1" extension_auto="1" />
-				<Option working_dir="..\..\bin" />
-				<Option object_output="..\..\bin" />
+				<Option output="../../bin/framework" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="../../bin" />
+				<Option object_output="../../bin" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -17,8 +17,8 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output=".\framework" prefix_auto="1" extension_auto="1" />
-				<Option object_output=".\" />
+				<Option output="./framework" prefix_auto="1" extension_auto="1" />
+				<Option object_output="./" />
 				<Option type="0" />
 				<Option compiler="gcc" />
 				<Compiler>
@@ -31,10 +31,10 @@
 		</Build>
 		<Compiler>
 			<Add option="-Wall" />
-			<Add directory="..\..\lib\SDL-mingw\include" />
-			<Add directory="..\..\include" />
-			<Add directory="..\..\include\maploader" />
-			<Add directory="..\..\include\tinyxml" />
+			<Add directory="../../lib/SDL-mingw/include" />
+			<Add directory="../../include" />
+			<Add directory="../../include/maploader" />
+			<Add directory="../../include/tinyxml" />
 		</Compiler>
 		<Linker>
 			<Add library="mingw32" />
@@ -47,45 +47,47 @@
 			<Add library="SDL_image" />
 			<Add library="opengl32" />
 			<Add library="glu32" />
-			<Add directory="..\..\lib\SDL-mingw\lib" />
+			<Add directory="../../lib/SDL-mingw/lib" />
 		</Linker>
-		<Unit filename="..\..\include\CFont.h" />
-		<Unit filename="..\..\include\CGame.h" />
-		<Unit filename="..\..\include\CGameState.h" />
-		<Unit filename="..\..\include\CImage.h" />
-		<Unit filename="..\..\include\CMultiImage.h" />
-		<Unit filename="..\..\include\CSprite.h" />
-		<Unit filename="..\..\include\Enemy.h" />
-		<Unit filename="..\..\include\EnemyAnimator.h" />
-		<Unit filename="..\..\include\Graphics.h" />
-		<Unit filename="..\..\include\MenuState.h" />
-		<Unit filename="..\..\include\OptionsState.h" />
-		<Unit filename="..\..\include\PauseState.h" />
-		<Unit filename="..\..\include\PlayState.h" />
-		<Unit filename="..\..\include\Player.h" />
-		<Unit filename="..\..\include\StarAnimator.h" />
-		<Unit filename="..\..\include\TextureManager.h" />
-		<Unit filename="..\..\source\CFont.cpp" />
-		<Unit filename="..\..\source\CGame.cpp" />
-		<Unit filename="..\..\source\CImage.cpp" />
-		<Unit filename="..\..\source\CMultiImage.cpp" />
-		<Unit filename="..\..\source\CSprite.cpp" />
-		<Unit filename="..\..\source\Enemy.cpp" />
-		<Unit filename="..\..\source\EnemyAnimator.cpp" />
-		<Unit filename="..\..\source\MenuState.cpp" />
-		<Unit filename="..\..\source\OptionsState.cpp" />
-		<Unit filename="..\..\source\PauseState.cpp" />
-		<Unit filename="..\..\source\PlayState.cpp" />
-		<Unit filename="..\..\source\Player.cpp" />
-		<Unit filename="..\..\source\StarAnimator.cpp" />
-		<Unit filename="..\..\source\TextureManager.cpp" />
-		<Unit filename="..\..\source\main.cpp" />
-		<Unit filename="..\..\source\maploader\TMXLoader.cpp" />
-		<Unit filename="..\..\source\maploader\base64.cpp" />
-		<Unit filename="..\..\source\tinyxml\tinystr.cpp" />
-		<Unit filename="..\..\source\tinyxml\tinyxml.cpp" />
-		<Unit filename="..\..\source\tinyxml\tinyxmlerror.cpp" />
-		<Unit filename="..\..\source\tinyxml\tinyxmlparser.cpp" />
+		<Unit filename="../../include/CFont.h" />
+		<Unit filename="../../include/CGame.h" />
+		<Unit filename="../../include/CGameState.h" />
+		<Unit filename="../../include/CImage.h" />
+		<Unit filename="../../include/CMultiImage.h" />
+		<Unit filename="../../include/CSprite.h" />
+		<Unit filename="../../include/Enemy.h" />
+		<Unit filename="../../include/EnemyAnimator.h" />
+		<Unit filename="../../include/GameOverState.h" />
+		<Unit filename="../../include/Graphics.h" />
+		<Unit filename="../../include/MenuState.h" />
+		<Unit filename="../../include/OptionsState.h" />
+		<Unit filename="../../include/PauseState.h" />
+		<Unit filename="../../include/PlayState.h" />
+		<Unit filename="../../include/Player.h" />
+		<Unit filename="../../include/StarAnimator.h" />
+		<Unit filename="../../include/TextureManager.h" />
+		<Unit filename="../../source/CFont.cpp" />
+		<Unit filename="../../source/CGame.cpp" />
+		<Unit filename="../../source/CImage.cpp" />
+		<Unit filename="../../source/CMultiImage.cpp" />
+		<Unit filename="../../source/CSprite.cpp" />
+		<Unit filename="../../source/Enemy.cpp" />
+		<Unit filename="../../source/EnemyAnimator.cpp" />
+		<Unit filename="../../source/GameOverState.cpp" />
+		<Unit filename="../../source/MenuState.cpp" />
+		<Unit filename="../../source/OptionsState.cpp" />
+		<Unit filename="../../source/PauseState.cpp" />
+		<Unit filename="../../source/PlayState.cpp" />
+		<Unit filename="../../source/Player.cpp" />
+		<Unit filename="../../source/StarAnimator.cpp" />
+		<Unit filename="../../source/TextureManager.cpp" />
+		<Unit filename="../../source/main.cpp" />
+		<Unit filename="../../source/maploader/TMXLoader.cpp" />
+		<Unit filename="../../source/maploader/base64.cpp" />
+		<Unit filename="../../source/tinyxml/tinystr.cpp" />
+		<Unit filename="../../source/tinyxml/tinyxml.cpp" />
+		<Unit filename="../../source/tinyxml/tinyxmlerror.cpp" />
+		<Unit filename="../../source/tinyxml/tinyxmlparser.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />

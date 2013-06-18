@@ -17,6 +17,7 @@
 #include "StarAnimator.h"
 #include "PauseState.h"
 #include "EnemyAnimator.h"
+#include "GameOverState.h"
 PlayState PlayState::m_PlayState;
 
 using namespace std;
@@ -63,6 +64,8 @@ void PlayState::init()
     //scoreFont->loadFont("data/fonts/lucida12.png", 112, 208);
     scoreFont->loadFont("data/fonts/arialblack28.png", 448, 640);
     score = 0;
+
+    gameOver = false;
 
     cout << "PlayState Init Successful" << endl;
 }
@@ -146,6 +149,11 @@ void PlayState::handleEvents(CGame* game)
 
 void PlayState::update(CGame* game)
 {
+    if(gameOver)
+    {
+        game->pushState(GameOverState::instance());
+    }
+
     // Atualiza a câmera de jogo
     game->updateCamera();
     // Atualiza a animação de frames e movimento do personagem
@@ -156,6 +164,10 @@ void PlayState::update(CGame* game)
     score = (enemyAnimator1->getDeadEnemyQuantity() * 10);
 
     //check if player has no more lifes to show a game over
+    if(player->dead())
+    {
+        gameOver = true;
+    }
 }
 
 void PlayState::draw(CGame* game)

@@ -55,6 +55,7 @@ class PlayState : public CGameState
     Uint8* keyState;  // array to store keyboard state
     CFont* scoreFont;
     int score;
+    bool gameOver;
 };
 
 #endif
