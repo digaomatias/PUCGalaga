@@ -50,7 +50,9 @@ void PlayState::init()
     player->setCurrentFrame(6);
     player->setScale(1.5);
 
-    enemyAnimator1 = new EnemyAnimator(10, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1);
+    enemyAnimators.push_back(new EnemyAnimator(10, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1));
+    enemyAnimators.push_back(new EnemyAnimator(10, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1));
+    animatorsIt = enemyAnimators.begin();
 
     // Taxa de animação: zero no início (personagem está parado)
     dirx = 0; // direção do personagem: para a direita (5), esquerda (-5)
@@ -74,7 +76,6 @@ void PlayState::cleanup()
 {
     // Libera memória
     delete player;
-    delete enemyAnimator1;
     delete mapImage;
     delete starAnimator;
     delete scoreFont;
@@ -159,14 +160,31 @@ void PlayState::update(CGame* game)
     // Atualiza a animação de frames e movimento do personagem
     starAnimator->update(game->getUpdateInterval());
     player->update(game->getUpdateInterval());
-    enemyAnimator1->update(game->getUpdateInterval(), game, player);
 
-    score = (enemyAnimator1->getDeadEnemyQuantity() * 10);
+    int deadEnemiesAmount = 0;
+
+    for(std::vector<EnemyAnimator*>::iterator i = enemyAnimators.begin(); i != enemyAnimators.end(); i++)
+    {
+        deadEnemiesAmount += (*i)->getDeadEnemyQuantity();
+    }
+
+    score = (deadEnemiesAmount * 10);
 
     //check if player has no more lifes to show a game over
     if(player->dead())
     {
         gameOver = true;
+    }
+
+    if(animatorsIt != enemyAnimators.end())
+    {
+        (*animatorsIt)->update(game->getUpdateInterval(), game, player);
+
+        if((*animatorsIt)->isFinished())
+            animatorsIt++;
+
+        if(animatorsIt == enemyAnimators.end())
+            gameOver = true;
     }
 }
 
@@ -180,7 +198,8 @@ void PlayState::draw(CGame* game)
     mapImage->draw();
     starAnimator->draw();
     player->draw();
-    enemyAnimator1->draw();
+    if(animatorsIt != enemyAnimators.end())
+        (*animatorsIt)->draw();
 
     std::stringstream sstm;
     sstm << "SCORE: " << score;

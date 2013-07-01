@@ -127,6 +127,11 @@ void EnemyAnimator::update(double interval, CGame* game, Player* player)
      finished = enemies.size()==0;
 }
 
+bool EnemyAnimator::isFinished()
+{
+    return finished;
+}
+
 void EnemyAnimator::draw()
 {
 
