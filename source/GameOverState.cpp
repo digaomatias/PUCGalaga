@@ -42,7 +42,13 @@ void GameOverState::handleEvents(CGame* game)
 				break;
 
             case SDL_KEYDOWN:
-				game->quit();
+                {
+                    switch(event.key.keysym.sym)
+                    {
+                        case SDLK_ESCAPE:
+                            game->quit();
+                    }
+                }
                 break;
 
             case SDL_VIDEORESIZE:
