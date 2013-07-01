@@ -52,6 +52,7 @@ EnemyAnimator::EnemyAnimator()
 {
     //Does nothing:
     finished = true;
+    deadEnemyQuantity = 0;
 }
 
 EnemyAnimator::~EnemyAnimator()
