@@ -24,10 +24,13 @@
 #define LEFT_TO_RIGHT 2
 #define RIGHT_TO_LEFT 3
 #define DOWN_UP 4
+#define RANDOM 5
 class EnemyAnimator
 {
 public:
         EnemyAnimator(int enemyAmount, int width, int height, char* sparrowXML, char* shotSparrowPath, int life);
+        EnemyAnimator(int enemyAmount, int width, int height, char* sparrowXML, char* shotSparrowPath, int life, int animationType);
+        EnemyAnimator();
         ~EnemyAnimator();
         void update(double interval, CGame* game, Player* player);
         void draw();
@@ -37,10 +40,13 @@ public:
 private:
         bool finished;
         int screen_width, screen_height;
+        int animationType;
         std::vector <Enemy*> enemies;
         char* sparrowPath;
         void allocateEnemies(int count, char* sparrowPath, char* shotSparrowPath, int life);
         void handleShotsCollision(Enemy* enemy, std::vector<CSprite*> shots);
+        void handleAllocation(int amount, char* sparrowPath, char* shotSparrowPath, int life);
+        void handleAnimation(Enemy* enemy);
         int generateXPosition();
         int generateYPosition(Enemy* enemy, int order);
         int deadEnemyQuantity;

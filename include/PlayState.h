@@ -51,6 +51,9 @@ class PlayState : public CGameState
     Player* player;  // player image
     std::vector<EnemyAnimator*> enemyAnimators;
     std::vector<EnemyAnimator*>::iterator animatorsIt;
+
+    std::vector<EnemyAnimator*> auxEnemyAnimators;
+    std::vector<EnemyAnimator*>::iterator auxAnimatorIt;
     CImage* mapImage;
     StarAnimator* starAnimator;
     Uint8* keyState;  // array to store keyboard state

@@ -50,10 +50,21 @@ void PlayState::init()
     player->setCurrentFrame(6);
     player->setScale(1.5);
 
-    enemyAnimators.push_back(new EnemyAnimator(10, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1));
-    enemyAnimators.push_back(new EnemyAnimator(10, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1));
+    enemyAnimators.push_back(new EnemyAnimator(30, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1));
+    enemyAnimators.push_back(new EnemyAnimator(10, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1, LEFT_TO_RIGHT));
+    enemyAnimators.push_back(new EnemyAnimator(20, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1, RIGHT_TO_LEFT));
+    enemyAnimators.push_back(new EnemyAnimator(20, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1, LEFT_TO_RIGHT));
+    enemyAnimators.push_back(new EnemyAnimator(10, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1, RIGHT_TO_LEFT));
+    enemyAnimators.push_back(new EnemyAnimator(20, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1, RIGHT_TO_LEFT));
+    enemyAnimators.push_back(new EnemyAnimator(30, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1, DOWN_UP));
+    enemyAnimators.push_back(new EnemyAnimator(40, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1, DOWN_UP));
+    enemyAnimators.push_back(new EnemyAnimator(50, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1, DOWN_UP));
+    enemyAnimators.push_back(new EnemyAnimator(60, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1, DOWN_UP));
     animatorsIt = enemyAnimators.begin();
 
+    auxEnemyAnimators.push_back(new EnemyAnimator());
+    auxEnemyAnimators.push_back(new EnemyAnimator(20, 640, 480, "data/img/enemy1.xml", "data/img/spaceshots.xml", 1, LEFT_TO_RIGHT));
+    auxAnimatorIt = auxEnemyAnimators.begin();
     // Taxa de animação: zero no início (personagem está parado)
     dirx = 0; // direção do personagem: para a direita (5), esquerda (-5)
     diry = 0; // direção do personagem: para cima (5), baixo (-5)
@@ -168,6 +179,11 @@ void PlayState::update(CGame* game)
         deadEnemiesAmount += (*i)->getDeadEnemyQuantity();
     }
 
+    for(std::vector<EnemyAnimator*>::iterator i = auxEnemyAnimators.begin(); i != auxEnemyAnimators.end(); i++)
+    {
+        deadEnemiesAmount += (*i)->getDeadEnemyQuantity();
+    }
+
     score = (deadEnemiesAmount * 10);
 
     //check if player has no more lifes to show a game over
@@ -185,6 +201,16 @@ void PlayState::update(CGame* game)
 
         if(animatorsIt == enemyAnimators.end())
             gameOver = true;
+
+        if(animatorsIt - enemyAnimators.begin() == 5 && auxAnimatorIt - auxEnemyAnimators.begin() != 1)
+        {
+            auxAnimatorIt++;
+        }
+    }
+
+    if(auxAnimatorIt != auxEnemyAnimators.end() && !(*auxAnimatorIt)->isFinished())
+    {
+        (*auxAnimatorIt)->update(game->getUpdateInterval(), game, player);
     }
 }
 
@@ -200,6 +226,9 @@ void PlayState::draw(CGame* game)
     player->draw();
     if(animatorsIt != enemyAnimators.end())
         (*animatorsIt)->draw();
+
+    if(!(*auxAnimatorIt)->isFinished())
+        (*auxAnimatorIt)->draw();
 
     std::stringstream sstm;
     sstm << "SCORE: " << score;
